@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 1120.87
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 15",
+    "price": 2588.4
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 11 Pro",
+    "price": 245.68
+  },
+  {
+    "id": 4,
+    "name": "Huawei P30 Pro",
+    "price": 1567.33
+  },
+  {
+    "id": 5,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 170.62
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy S23",
+    "price": 2986.67
+  },
+  {
+    "id": 7,
+    "name": "Xiaomi Mi Pro",
+    "price": 2166.46
+  },
+  {
+    "id": 8,
+    "name": "OnePlus 10 Pro",
+    "price": 2338
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Note 20",
+    "price": 4945.14
+  },
+  {
+    "id": 10,
+    "name": "OnePlus 6T",
+    "price": 330.05
+  },
+  {
+    "id": 11,
+    "name": "Xiaomi Poco F3",
+    "price": 4113.02
+  },
+  {
+    "id": 12,
+    "name": "Xiaomi Poco X4",
+    "price": 1753.07
+  },
+  {
+    "id": 13,
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 274.17
+  },
+  {
+    "id": 14,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 3437.77
+  },
+  {
+    "id": 15,
+    "name": "Huawei Mate RS",
+    "price": 439.28
+  },
+  {
+    "id": 16,
+    "name": "Google Pixel 4a",
+    "price": 1540.6
+  },
+  {
+    "id": 17,
+    "name": "Samsung Galaxy Z Flip 6",
+    "price": 3810.55
+  },
+  {
+    "id": 18,
+    "name": "OnePlus 10 Pro",
+    "price": 232.2
+  },
+  {
+    "id": 19,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 1423.75
+  },
+  {
+    "id": 20,
+    "name": "OnePlus 12",
+    "price": 3729.57
+  },
+  {
+    "id": 21,
+    "name": "Huawei Mate 30 Pro",
+    "price": 2185.34
+  },
+  {
+    "id": 22,
+    "name": "OnePlus 11",
+    "price": 4126.45
+  },
+  {
+    "id": 23,
+    "name": "Xiaomi Mi 10 Pro",
+    "price": 3447.06
+  },
+  {
+    "id": 24,
+    "name": "Apple iPhone 16",
+    "price": 382.87
+  },
+  {
+    "id": 25,
+    "name": "Apple iPhone 16 Pro",
+    "price": 3155.66
+  },
+  {
+    "id": 26,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 360.37
+  },
+  {
+    "id": 27,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1070.8
+  },
+  {
+    "id": 28,
+    "name": "Huawei P40",
+    "price": 3268.87
+  },
+  {
+    "id": 29,
+    "name": "Huawei P50 Pro",
+    "price": 365.76
+  },
+  {
+    "id": 30,
+    "name": "Huawei P50 Pro",
+    "price": 2772.85
+  },
+  {
+    "id": 31,
+    "name": "OnePlus 9",
+    "price": 1561.06
+  },
+  {
+    "id": 32,
+    "name": "Google Pixel 7 Pro",
+    "price": 4892.43
+  },
+  {
+    "id": 33,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 617.27
+  },
+  {
+    "id": 34,
+    "name": "Apple iPhone SE 2022",
+    "price": 2915.85
+  },
+  {
+    "id": 35,
+    "name": "Xiaomi Poco F3",
+    "price": 995.29
+  },
+  {
+    "id": 36,
+    "name": "Apple iPhone 15",
+    "price": 4171.7
+  },
+  {
+    "id": 37,
+    "name": "Google Pixel 6 Pro",
+    "price": 3919.66
+  },
+  {
+    "id": 38,
+    "name": "Google Pixel 4 XL",
+    "price": 1830.39
+  },
+  {
+    "id": 39,
+    "name": "OnePlus 9T",
+    "price": 1619.5
+  },
+  {
+    "id": 40,
+    "name": "Google Pixel 9 Pro",
+    "price": 3133.27
+  },
+  {
+    "id": 41,
+    "name": "OnePlus 10R",
+    "price": 3847.73
+  },
+  {
+    "id": 42,
+    "name": "Xiaomi Redmi K40",
+    "price": 4961.25
+  },
+  {
+    "id": 43,
+    "name": "Xiaomi Poco F3",
+    "price": 46.88
+  },
+  {
+    "id": 44,
+    "name": "Google Pixel 9 Pro",
+    "price": 1626.32
+  },
+  {
+    "id": 45,
+    "name": "Samsung Galaxy Note 20",
+    "price": 957.74
+  },
+  {
+    "id": 46,
+    "name": "Google Pixel 5",
+    "price": 1676.78
+  },
+  {
+    "id": 47,
+    "name": "Xiaomi Mi Max",
+    "price": 780.5
+  },
+  {
+    "id": 48,
+    "name": "Xiaomi Mi 10",
+    "price": 3603.76
+  },
+  {
+    "id": 49,
+    "name": "Google Pixel 4 XL",
+    "price": 2808.8
+  },
+  {
+    "id": 50,
+    "name": "Google Pixel XL",
+    "price": 2693.2
+  },
+  {
+    "id": 51,
+    "name": "Huawei Mate 40 Pro",
+    "price": 2905.04
+  },
+  {
+    "id": 52,
+    "name": "Google Pixel 4",
+    "price": 3662.36
+  },
+  {
+    "id": 53,
+    "name": "Google Pixel XL",
+    "price": 1133.86
+  },
+  {
+    "id": 54,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 3494.69
+  },
+  {
+    "id": 55,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 4678.08
+  },
+  {
+    "id": 56,
+    "name": "Apple iPhone 14 Pro",
+    "price": 2517.53
+  },
+  {
+    "id": 57,
+    "name": "OnePlus Nord CE",
+    "price": 400.45
+  },
+  {
+    "id": 58,
+    "name": "Google Pixel 7 Pro",
+    "price": 3313.52
+  },
+  {
+    "id": 59,
+    "name": "OnePlus 9 RT",
+    "price": 2671.99
+  },
+  {
+    "id": 60,
+    "name": "Samsung Galaxy S21",
+    "price": 3461.13
+  },
+  {
+    "id": 61,
+    "name": "Xiaomi Mi Pro",
+    "price": 2554.66
+  },
+  {
+    "id": 62,
+    "name": "OnePlus Nord CE",
+    "price": 2276.83
+  },
+  {
+    "id": 63,
+    "name": "Apple iPhoneSE Mini",
+    "price": 364.45
+  },
+  {
+    "id": 64,
+    "name": "Google Pixel 5a 5G",
+    "price": 1540.31
+  },
+  {
+    "id": 65,
+    "name": "OnePlus 11 Pro",
+    "price": 1567.92
+  },
+  {
+    "id": 66,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 1477.78
+  },
+  {
+    "id": 67,
+    "name": "Google Pixel 6 XL",
+    "price": 261.08
+  },
+  {
+    "id": 68,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 4400.05
+  },
+  {
+    "id": 69,
+    "name": "Huawei P30 Pro",
+    "price": 3313.11
+  },
+  {
+    "id": 70,
+    "name": "Samsung GalaxyS Ultra",
+    "price": 2702.37
+  },
+  {
+    "id": 71,
+    "name": "Huawei P40 Pro",
+    "price": 4141.74
+  },
+  {
+    "id": 72,
+    "name": "Google Pixel 7a",
+    "price": 510.78
+  },
+  {
+    "id": 73,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 2841.34
+  },
+  {
+    "id": 74,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1383.88
+  },
+  {
+    "id": 75,
+    "name": "Huawei Mate Pro",
+    "price": 1166.97
+  },
+  {
+    "id": 76,
+    "name": "Samsung GalaxyS Plus",
+    "price": 1731.64
+  },
+  {
+    "id": 77,
+    "name": "OnePlus 8 Pro",
+    "price": 4353.44
+  },
+  {
+    "id": 78,
+    "name": "Google Pixel 5a",
+    "price": 2245.68
+  },
+  {
+    "id": 79,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 2436.9
+  },
+  {
+    "id": 80,
+    "name": "Huawei Mate RS",
+    "price": 3403.39
+  },
+  {
+    "id": 81,
+    "name": "Apple iPhoneSE",
+    "price": 2808.95
+  },
+  {
+    "id": 82,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 3545.73
+  },
+  {
+    "id": 83,
+    "name": "Xiaomi Mi 12 Pro",
+    "price": 2412.96
+  },
+  {
+    "id": 84,
+    "name": "OnePlus 9 RT",
+    "price": 1433.46
+  },
+  {
+    "id": 85,
+    "name": "Google Pixel 6 Pro",
+    "price": 458.31
+  },
+  {
+    "id": 86,
+    "name": "OnePlus 12",
+    "price": 1493.31
+  },
+  {
+    "id": 87,
+    "name": "Huawei P50 Pro",
+    "price": 4743.01
+  },
+  {
+    "id": 88,
+    "name": "Huawei Mate 40 Pro",
+    "price": 4862.85
+  },
+  {
+    "id": 89,
+    "name": "Xiaomi Mi 10",
+    "price": 3608.94
+  },
+  {
+    "id": 90,
+    "name": "Huawei Mate",
+    "price": 2284
+  },
+  {
+    "id": 91,
+    "name": "Huawei P40",
+    "price": 309.69
+  },
+  {
+    "id": 92,
+    "name": "OnePlus Nord CE 2",
+    "price": 4719.51
+  },
+  {
+    "id": 93,
+    "name": "OnePlus 7 Pro",
+    "price": 217.28
+  },
+  {
+    "id": 94,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 5.42
+  },
+  {
+    "id": 95,
+    "name": "Google Pixel 7a",
+    "price": 1940.51
+  },
+  {
+    "id": 96,
+    "name": "Google Pixel 7a",
+    "price": 4774.23
+  },
+  {
+    "id": 97,
+    "name": "Google Pixel 7",
+    "price": 2597.83
+  },
+  {
+    "id": 98,
+    "name": "Huawei P50",
+    "price": 258.97
+  },
+  {
+    "id": 99,
+    "name": "Xiaomi Mi",
+    "price": 630.58
+  },
+  {
+    "id": 100,
+    "name": "OnePlus 12",
+    "price": 1384.88
+  },
+  {
+    "id": 101,
+    "name": "OnePlus 7T",
+    "price": 2704.09
+  },
+  {
+    "id": 102,
+    "name": "OnePlus 9 RT",
+    "price": 3533.14
+  },
+  {
+    "id": 103,
+    "name": "Samsung Galaxy S24",
+    "price": 2530.8
+  },
+  {
+    "id": 104,
+    "name": "OnePlus 7T",
+    "price": 3208.67
+  },
+  {
+    "id": 105,
+    "name": "Apple iPhoneSE Pro",
+    "price": 4247.51
+  },
+  {
+    "id": 106,
+    "name": "Google Pixel 6",
+    "price": 3276.82
+  },
+  {
+    "id": 107,
+    "name": "OnePlus Nord N200",
+    "price": 1578.71
+  },
+  {
+    "id": 108,
+    "name": "Google Pixel",
+    "price": 3908.43
+  },
+  {
+    "id": 109,
+    "name": "Xiaomi Mi Mix 5",
+    "price": 4870.07
+  },
+  {
+    "id": 110,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 3907.61
+  },
+  {
+    "id": 111,
+    "name": "Huawei P60",
+    "price": 3510.37
+  },
+  {
+    "id": 112,
+    "name": "Google Pixel 9",
+    "price": 3133.85
+  },
+  {
+    "id": 113,
+    "name": "OnePlus 12T",
+    "price": 3327.82
+  },
+  {
+    "id": 114,
+    "name": "Apple iPhone 14 Pro",
+    "price": 4139.02
+  },
+  {
+    "id": 115,
+    "name": "Google Pixel 8a",
+    "price": 4311.45
+  },
+  {
+    "id": 116,
+    "name": "Google Pixel 6a",
+    "price": 3720.3
+  },
+  {
+    "id": 117,
+    "name": "Huawei P40 Pro",
+    "price": 3876.02
+  },
+  {
+    "id": 118,
+    "name": "Apple iPhone 16",
+    "price": 3363.08
+  },
+  {
+    "id": 119,
+    "name": "Huawei P40 Pro",
+    "price": 3402.64
+  },
+  {
+    "id": 120,
+    "name": "Apple iPhone 13 Mini",
+    "price": 4525.37
+  },
+  {
+    "id": 121,
+    "name": "OnePlus 7T",
+    "price": 2874.52
+  },
+  {
+    "id": 122,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 3845.24
+  },
+  {
+    "id": 123,
+    "name": "Google Pixel 5 XL",
+    "price": 2852.56
+  },
+  {
+    "id": 124,
+    "name": "Huawei P30 Pro",
+    "price": 1396.91
+  },
+  {
+    "id": 125,
+    "name": "OnePlus 12T",
+    "price": 1431.49
+  },
+  {
+    "id": 126,
+    "name": "Google Pixel 4 XL",
+    "price": 2890.08
+  },
+  {
+    "id": 127,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 4754.68
+  },
+  {
+    "id": 128,
+    "name": "Google Pixel 6 XL",
+    "price": 4678.75
+  },
+  {
+    "id": 129,
+    "name": "Apple iPhone 17",
+    "price": 706.86
+  },
+  {
+    "id": 130,
+    "name": "OnePlus 8 Pro",
+    "price": 2219.61
+  },
+  {
+    "id": 131,
+    "name": "Google Pixel 9",
+    "price": 3301.02
+  },
+  {
+    "id": 132,
+    "name": "Huawei Mate 30 Pro",
+    "price": 990.05
+  },
+  {
+    "id": 133,
+    "name": "OnePlus 9T",
+    "price": 3413.18
+  },
+  {
+    "id": 134,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 3710.22
+  },
+  {
+    "id": 135,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 4084.54
+  },
+  {
+    "id": 136,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1695.26
+  },
+  {
+    "id": 137,
+    "name": "Huawei Mate RS",
+    "price": 1972.73
+  },
+  {
+    "id": 138,
+    "name": "Xiaomi Mi Max",
+    "price": 4806.77
+  },
+  {
+    "id": 139,
+    "name": "Apple iPhoneSE Mini",
+    "price": 999.1
+  },
+  {
+    "id": 140,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 1921.53
+  },
+  {
+    "id": 141,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 3775.52
+  },
+  {
+    "id": 142,
+    "name": "Apple iPhoneSE Max",
+    "price": 4903.34
+  },
+  {
+    "id": 143,
+    "name": "Samsung GalaxyS FE",
+    "price": 3363.42
+  },
+  {
+    "id": 144,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1841.25
+  },
+  {
+    "id": 145,
+    "name": "Huawei P60",
+    "price": 3199.54
+  },
+  {
+    "id": 146,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 453.54
+  },
+  {
+    "id": 147,
+    "name": "Google Pixel 7 Pro",
+    "price": 61.09
+  },
+  {
+    "id": 148,
+    "name": "Xiaomi Mi Max",
+    "price": 4398.22
+  },
+  {
+    "id": 149,
+    "name": "Apple iPhone 13",
+    "price": 3592.57
+  },
+  {
+    "id": 150,
+    "name": "Samsung Galaxy A52",
+    "price": 2458.12
+  },
+  {
+    "id": 151,
+    "name": "Google Pixel XL",
+    "price": 1587.67
+  },
+  {
+    "id": 152,
+    "name": "Google Pixel 5a 5G",
+    "price": 1705.88
+  },
+  {
+    "id": 153,
+    "name": "Samsung GalaxyS",
+    "price": 832.02
+  },
+  {
+    "id": 154,
+    "name": "Apple iPhone 16 Pro",
+    "price": 597.98
+  },
+  {
+    "id": 155,
+    "name": "Google Pixel 9",
+    "price": 298.35
+  },
+  {
+    "id": 156,
+    "name": "Google Pixel 7",
+    "price": 2497.41
+  },
+  {
+    "id": 157,
+    "name": "Xiaomi Mi Mix 5",
+    "price": 3171.41
+  },
+  {
+    "id": 158,
+    "name": "OnePlus 8 Pro",
+    "price": 3434.17
+  },
+  {
+    "id": 159,
+    "name": "Google Pixel",
+    "price": 2305.47
+  },
+  {
+    "id": 160,
+    "name": "Xiaomi Mi 13",
+    "price": 1611.76
+  },
+  {
+    "id": 161,
+    "name": "Samsung GalaxyS Ultra",
+    "price": 8.74
+  },
+  {
+    "id": 162,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1917.81
+  },
+  {
+    "id": 163,
+    "name": "Samsung Galaxy S23",
+    "price": 4856.76
+  },
+  {
+    "id": 164,
+    "name": "Xiaomi Mi Mix Alpha",
+    "price": 550.75
+  },
+  {
+    "id": 165,
+    "name": "Google Pixel 7 Pro",
+    "price": 954.72
+  },
+  {
+    "id": 166,
+    "name": "Google Pixel 6a",
+    "price": 4448.61
+  },
+  {
+    "id": 167,
+    "name": "Huawei Mate 30 Pro",
+    "price": 2880.32
+  },
+  {
+    "id": 168,
+    "name": "OnePlus Nord N10",
+    "price": 3854.93
+  },
+  {
+    "id": 169,
+    "name": "Huawei P80",
+    "price": 1290.6
+  },
+  {
+    "id": 170,
+    "name": "Google Pixel 5 XL",
+    "price": 1110.92
+  },
+  {
+    "id": 171,
+    "name": "Xiaomi Redmi K40",
+    "price": 829.21
+  },
+  {
+    "id": 172,
+    "name": "Xiaomi Mi 12",
+    "price": 1212.78
+  },
+  {
+    "id": 173,
+    "name": "Google Pixel 7 Pro",
+    "price": 1387.25
+  },
+  {
+    "id": 174,
+    "name": "Apple iPhone SE 2024",
+    "price": 1796.12
+  },
+  {
+    "id": 175,
+    "name": "OnePlus 11 Pro",
+    "price": 2141.6
+  },
+  {
+    "id": 176,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 2111.33
+  },
+  {
+    "id": 177,
+    "name": "Google Pixel XL",
+    "price": 1.06
+  },
+  {
+    "id": 178,
+    "name": "OnePlus 11",
+    "price": 3548.54
+  },
+  {
+    "id": 179,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 804.72
+  },
+  {
+    "id": 180,
+    "name": "Google Pixel 8",
+    "price": 3902.87
+  },
+  {
+    "id": 181,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 3686.42
+  },
+  {
+    "id": 182,
+    "name": "OnePlus Nord CE 2",
+    "price": 1920.57
+  },
+  {
+    "id": 183,
+    "name": "Huawei P40 Pro",
+    "price": 509.13
+  },
+  {
+    "id": 184,
+    "name": "Google Pixel 9 Pro",
+    "price": 1816.96
+  },
+  {
+    "id": 185,
+    "name": "OnePlus 11",
+    "price": 3654.23
+  },
+  {
+    "id": 186,
+    "name": "OnePlus 7 Pro",
+    "price": 2523.72
+  },
+  {
+    "id": 187,
+    "name": "Samsung Galaxy S21",
+    "price": 914.93
+  },
+  {
+    "id": 188,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 742.14
+  },
+  {
+    "id": 189,
+    "name": "OnePlus 12 Pro",
+    "price": 3727.57
+  },
+  {
+    "id": 190,
+    "name": "Apple iPhone 13 Mini",
+    "price": 2034.77
+  },
+  {
+    "id": 191,
+    "name": "Google Pixel 6",
+    "price": 3008.28
+  },
+  {
+    "id": 192,
+    "name": "Apple iPhone 14 Pro",
+    "price": 1398.58
+  },
+  {
+    "id": 193,
+    "name": "OnePlus Nord N200",
+    "price": 2027.56
+  },
+  {
+    "id": 194,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 4776.37
+  },
+  {
+    "id": 195,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 712.67
+  },
+  {
+    "id": 196,
+    "name": "Apple iPhoneSE Pro",
+    "price": 1822.45
+  },
+  {
+    "id": 197,
+    "name": "Apple iPhone 14 Pro",
+    "price": 3238.95
+  },
+  {
+    "id": 198,
+    "name": "Google Pixel 4 XL",
+    "price": 1107.32
+  },
+  {
+    "id": 199,
+    "name": "Xiaomi Mi 13",
+    "price": 4280.78
+  },
+  {
+    "id": 200,
+    "name": "OnePlus 9 RT",
+    "price": 1605.1
+  },
+  {
+    "id": 201,
+    "name": "Huawei P50 Pro Lite",
+    "price": 4517.95
+  },
+  {
+    "id": 202,
+    "name": "Xiaomi Mi 12",
+    "price": 531.94
+  },
+  {
+    "id": 203,
+    "name": "Samsung Galaxy S23",
+    "price": 263.04
+  },
+  {
+    "id": 204,
+    "name": "Xiaomi Mi Mix Alpha",
+    "price": 1344.37
+  },
+  {
+    "id": 205,
+    "name": "Apple iPhone 16 Pro",
+    "price": 278.89
+  },
+  {
+    "id": 206,
+    "name": "Apple iPhone 11 Pro",
+    "price": 4608.18
+  },
+  {
+    "id": 207,
+    "name": "Google Pixel 7",
+    "price": 4626.56
+  },
+  {
+    "id": 208,
+    "name": "Huawei P50 Pro",
+    "price": 1983.2
+  },
+  {
+    "id": 209,
+    "name": "Xiaomi Mi 11",
+    "price": 2696.85
+  },
+  {
+    "id": 210,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 2554.77
+  },
+  {
+    "id": 211,
+    "name": "Xiaomi Mi Mix 5",
+    "price": 1125
+  },
+  {
+    "id": 212,
+    "name": "Huawei P40",
+    "price": 1393.14
+  },
+  {
+    "id": 213,
+    "name": "Google Pixel 4a",
+    "price": 4316.57
+  },
+  {
+    "id": 214,
+    "name": "Samsung Galaxy A52",
+    "price": 3105.91
+  },
+  {
+    "id": 215,
+    "name": "Apple iPhone SE 2024",
+    "price": 4132.04
+  },
+  {
+    "id": 216,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 102.1
+  },
+  {
+    "id": 217,
+    "name": "Samsung Galaxy Note 20",
+    "price": 2181.07
+  },
+  {
+    "id": 218,
+    "name": "Huawei P60",
+    "price": 410.84
+  },
+  {
+    "id": 219,
+    "name": "Huawei P40 Pro",
+    "price": 2467.18
+  },
+  {
+    "id": 220,
+    "name": "OnePlus 12T",
+    "price": 2322.76
+  },
+  {
+    "id": 221,
+    "name": "Samsung Galaxy A52",
+    "price": 4907.96
+  },
+  {
+    "id": 222,
+    "name": "Huawei Mate Pro",
+    "price": 4186.64
+  },
+  {
+    "id": 223,
+    "name": "Xiaomi Mi 12 Pro",
+    "price": 2884
+  },
+  {
+    "id": 224,
+    "name": "Huawei P80 Pro",
+    "price": 3662.04
+  },
+  {
+    "id": 225,
+    "name": "Apple iPhone 14",
+    "price": 740.89
+  },
+  {
+    "id": 226,
+    "name": "Xiaomi Mi 12",
+    "price": 349.68
+  },
+  {
+    "id": 227,
+    "name": "OnePlus 11",
+    "price": 563.11
+  },
+  {
+    "id": 228,
+    "name": "Samsung Galaxy Z Flip 6",
+    "price": 4089.01
+  },
+  {
+    "id": 229,
+    "name": "Google Pixel 7 Pro",
+    "price": 3691.05
+  },
+  {
+    "id": 230,
+    "name": "Apple iPhoneSE Mini",
+    "price": 1799.76
+  },
+  {
+    "id": 231,
+    "name": "Huawei Mate 30 Pro",
+    "price": 396.93
+  },
+  {
+    "id": 232,
+    "name": "OnePlus 8 Pro",
+    "price": 1506.62
+  },
+  {
+    "id": 233,
+    "name": "Google Pixel 4a",
+    "price": 2761.61
+  },
+  {
+    "id": 234,
+    "name": "Samsung Galaxy A52",
+    "price": 4197.8
+  },
+  {
+    "id": 235,
+    "name": "Xiaomi Mi Pro",
+    "price": 2490.79
+  },
+  {
+    "id": 236,
+    "name": "Xiaomi Poco X4",
+    "price": 1348.42
+  },
+  {
+    "id": 237,
+    "name": "OnePlus 11",
+    "price": 2825.31
+  },
+  {
+    "id": 238,
+    "name": "Xiaomi Mi 12 Pro",
+    "price": 1587.46
+  },
+  {
+    "id": 239,
+    "name": "Google Pixel 8 Pro",
+    "price": 4326.27
+  },
+  {
+    "id": 240,
+    "name": "Google Pixel",
+    "price": 4649.02
+  },
+  {
+    "id": 241,
+    "name": "OnePlus 8 Pro",
+    "price": 1059.36
+  },
+  {
+    "id": 242,
+    "name": "Apple iPhone 16",
+    "price": 2095.95
+  },
+  {
+    "id": 243,
+    "name": "OnePlus Nord N200",
+    "price": 1672.26
+  },
+  {
+    "id": 244,
+    "name": "Samsung Galaxy Note 20",
+    "price": 1422.03
+  },
+  {
+    "id": 245,
+    "name": "Google Pixel 8",
+    "price": 3549.98
+  },
+  {
+    "id": 246,
+    "name": "Xiaomi Poco F3",
+    "price": 2245.98
+  },
+  {
+    "id": 247,
+    "name": "OnePlus Nord",
+    "price": 898.46
+  },
+  {
+    "id": 248,
+    "name": "Apple iPhone 15",
+    "price": 4119.95
+  },
+  {
+    "id": 249,
+    "name": "Google Pixel 5a 5G",
+    "price": 3136.36
+  },
+  {
+    "id": 250,
+    "name": "Apple iPhoneSE Mini",
+    "price": 4544.11
+  },
+  {
+    "id": 251,
+    "name": "Samsung Galaxy Z Flip 6",
+    "price": 330.65
+  },
+  {
+    "id": 252,
+    "name": "Google Pixel 9 Pro",
+    "price": 2060.45
+  },
+  {
+    "id": 253,
+    "name": "Google Pixel 4",
+    "price": 77.45
+  },
+  {
+    "id": 254,
+    "name": "Xiaomi Mi 11",
+    "price": 443.52
+  },
+  {
+    "id": 255,
+    "name": "Google Pixel 8a",
+    "price": 4884.27
+  },
+  {
+    "id": 256,
+    "name": "Huawei Mate X",
+    "price": 3857.91
+  },
+  {
+    "id": 257,
+    "name": "Apple iPhone SE 2024",
+    "price": 1044.35
+  },
+  {
+    "id": 258,
+    "name": "Apple iPhone 14 Pro",
+    "price": 3708.3
+  },
+  {
+    "id": 259,
+    "name": "Huawei Mate 30 Pro",
+    "price": 4398.48
+  },
+  {
+    "id": 260,
+    "name": "Huawei Mate RS",
+    "price": 4432.12
+  },
+  {
+    "id": 261,
+    "name": "Google Pixel 6 Pro",
+    "price": 1522.73
+  },
+  {
+    "id": 262,
+    "name": "Huawei Mate X2",
+    "price": 2398.63
+  },
+  {
+    "id": 263,
+    "name": "Huawei P80",
+    "price": 3104.92
+  },
+  {
+    "id": 264,
+    "name": "Apple iPhone 15",
+    "price": 194.24
+  },
+  {
+    "id": 265,
+    "name": "Huawei Mate 40 Pro",
+    "price": 4368.12
+  },
+  {
+    "id": 266,
+    "name": "Huawei Mate X2",
+    "price": 882.49
+  },
+  {
+    "id": 267,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 3017.42
+  },
+  {
+    "id": 268,
+    "name": "Apple iPhone 14 Pro",
+    "price": 4349.15
+  },
+  {
+    "id": 269,
+    "name": "Google Pixel 8 Pro",
+    "price": 409.08
+  },
+  {
+    "id": 270,
+    "name": "Samsung Galaxy Z Flip 3",
+    "price": 3848.59
+  },
+  {
+    "id": 271,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 4727.34
+  },
+  {
+    "id": 272,
+    "name": "Samsung GalaxyS",
+    "price": 3408.29
+  },
+  {
+    "id": 273,
+    "name": "Samsung Galaxy S21",
+    "price": 935.7
+  },
+  {
+    "id": 274,
+    "name": "Google Pixel 4a",
+    "price": 1531.58
+  },
+  {
+    "id": 275,
+    "name": "Samsung Galaxy Note 20",
+    "price": 3575.34
+  },
+  {
+    "id": 276,
+    "name": "Huawei Mate 40 Pro",
+    "price": 3402.37
+  },
+  {
+    "id": 277,
+    "name": "Xiaomi Mi 13",
+    "price": 3528.07
+  },
+  {
+    "id": 278,
+    "name": "Apple iPhone 13",
+    "price": 817.47
+  },
+  {
+    "id": 279,
+    "name": "Google Pixel 5a 5G",
+    "price": 17.42
+  },
+  {
+    "id": 280,
+    "name": "OnePlus Nord CE 2",
+    "price": 583.41
+  },
+  {
+    "id": 281,
+    "name": "Apple iPhoneSE Pro",
+    "price": 2063.97
+  },
+  {
+    "id": 282,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 3859.88
+  },
+  {
+    "id": 283,
+    "name": "Huawei Mate X",
+    "price": 4014.87
+  },
+  {
+    "id": 284,
+    "name": "Apple iPhone 12",
+    "price": 4086.66
+  },
+  {
+    "id": 285,
+    "name": "OnePlus 8T",
+    "price": 1205.61
+  },
+  {
+    "id": 286,
+    "name": "Google Pixel 4 XL",
+    "price": 2905.05
+  },
+  {
+    "id": 287,
+    "name": "Huawei P60",
+    "price": 2449.93
+  },
+  {
+    "id": 288,
+    "name": "Huawei P50 Pro",
+    "price": 624.76
+  },
+  {
+    "id": 289,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 135.61
+  },
+  {
+    "id": 290,
+    "name": "Huawei P50 Pro",
+    "price": 2138.31
+  },
+  {
+    "id": 291,
+    "name": "OnePlus 7T",
+    "price": 934.39
+  },
+  {
+    "id": 292,
+    "name": "Apple iPhoneSE Mini",
+    "price": 1890.01
+  },
+  {
+    "id": 293,
+    "name": "Samsung Galaxy Z Flip 3",
+    "price": 3093.97
+  },
+  {
+    "id": 294,
+    "name": "Google Pixel 5 XL",
+    "price": 455.59
+  },
+  {
+    "id": 295,
+    "name": "Apple iPhone 13 Mini",
+    "price": 1772.16
+  },
+  {
+    "id": 296,
+    "name": "Apple iPhone 14",
+    "price": 382.38
+  },
+  {
+    "id": 297,
+    "name": "OnePlus Nord N200",
+    "price": 3238.18
+  },
+  {
+    "id": 298,
+    "name": "Google Pixel 6 XL",
+    "price": 877.37
+  },
+  {
+    "id": 299,
+    "name": "Huawei Mate",
+    "price": 4819.77
+  },
+  {
+    "id": 300,
+    "name": "Huawei Mate 40 Pro",
+    "price": 1366.23
+  },
+  {
+    "id": 301,
+    "name": "Xiaomi Poco F3",
+    "price": 2509.82
+  },
+  {
+    "id": 302,
+    "name": "Xiaomi Mi Mix 5",
+    "price": 4310.35
+  },
+  {
+    "id": 303,
+    "name": "Xiaomi Mi 12",
+    "price": 3133.21
+  },
+  {
+    "id": 304,
+    "name": "OnePlus 10R",
+    "price": 2882.21
+  },
+  {
+    "id": 305,
+    "name": "Huawei Mate X",
+    "price": 3658.4
+  },
+  {
+    "id": 306,
+    "name": "Google Pixel XL",
+    "price": 4255.73
+  },
+  {
+    "id": 307,
+    "name": "Huawei Mate X2",
+    "price": 48.52
+  },
+  {
+    "id": 308,
+    "name": "Samsung GalaxyS Plus",
+    "price": 2467.29
+  },
+  {
+    "id": 309,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 386.44
+  },
+  {
+    "id": 310,
+    "name": "OnePlus 11",
+    "price": 3589.05
+  },
+  {
+    "id": 311,
+    "name": "OnePlus 11",
+    "price": 1066.6
+  },
+  {
+    "id": 312,
+    "name": "Xiaomi Mi 13 Pro",
+    "price": 1870.61
+  },
+  {
+    "id": 313,
+    "name": "Xiaomi Mi 10",
+    "price": 3807.48
+  },
+  {
+    "id": 314,
+    "name": "Google Pixel 7",
+    "price": 1239.35
+  },
+  {
+    "id": 315,
+    "name": "Samsung Galaxy S20 FE",
+    "price": 1668.99
+  },
+  {
+    "id": 316,
+    "name": "Samsung Galaxy Note 20",
+    "price": 707.8
+  },
+  {
+    "id": 317,
+    "name": "Huawei Mate X",
+    "price": 2813.73
+  },
+  {
+    "id": 318,
+    "name": "Huawei Mate X",
+    "price": 214.37
+  },
+  {
+    "id": 319,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 3959.93
+  },
+  {
+    "id": 320,
+    "name": "OnePlus 11",
+    "price": 1862.2
+  },
+  {
+    "id": 321,
+    "name": "OnePlus 8T",
+    "price": 85.83
+  },
+  {
+    "id": 322,
+    "name": "Apple iPhone 15",
+    "price": 3867.08
+  },
+  {
+    "id": 323,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 2311.28
+  },
+  {
+    "id": 324,
+    "name": "Apple iPhone 14",
+    "price": 1270.08
+  },
+  {
+    "id": 325,
+    "name": "Apple iPhone 12",
+    "price": 1381.04
+  },
+  {
+    "id": 326,
+    "name": "OnePlus 12",
+    "price": 4863.57
+  },
+  {
+    "id": 327,
+    "name": "OnePlus 8T",
+    "price": 3357.33
+  },
+  {
+    "id": 328,
+    "name": "OnePlus Nord N10",
+    "price": 4174.9
+  },
+  {
+    "id": 329,
+    "name": "Apple iPhone 14 Pro",
+    "price": 2584.36
+  },
+  {
+    "id": 330,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 1484.52
+  },
+  {
+    "id": 331,
+    "name": "Google Pixel 4 XL",
+    "price": 571.16
+  },
+  {
+    "id": 332,
+    "name": "Xiaomi Poco F3",
+    "price": 4946.54
+  },
+  {
+    "id": 333,
+    "name": "Samsung Galaxy S21",
+    "price": 3594.31
+  },
+  {
+    "id": 334,
+    "name": "Xiaomi Mi Pro",
+    "price": 676.82
+  },
+  {
+    "id": 335,
+    "name": "Samsung Galaxy S21",
+    "price": 754.51
+  },
+  {
+    "id": 336,
+    "name": "Apple iPhone 15",
+    "price": 1049.13
+  },
+  {
+    "id": 337,
+    "name": "OnePlus 7 Pro",
+    "price": 2147.54
+  },
+  {
+    "id": 338,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 3127.14
+  },
+  {
+    "id": 339,
+    "name": "Huawei P80",
+    "price": 4746.38
+  },
+  {
+    "id": 340,
+    "name": "OnePlus 12T",
+    "price": 1106.27
+  },
+  {
+    "id": 341,
+    "name": "Apple iPhone 13",
+    "price": 3673.02
+  },
+  {
+    "id": 342,
+    "name": "Xiaomi Redmi Note 11",
+    "price": 4063.18
+  },
+  {
+    "id": 343,
+    "name": "Huawei Mate",
+    "price": 2949.51
+  },
+  {
+    "id": 344,
+    "name": "Google Pixel XL",
+    "price": 1134.66
+  },
+  {
+    "id": 345,
+    "name": "Apple iPhone 17",
+    "price": 1424.51
+  },
+  {
+    "id": 346,
+    "name": "Google Pixel 4",
+    "price": 4079.5
+  },
+  {
+    "id": 347,
+    "name": "OnePlus 7 Pro",
+    "price": 1647.36
+  },
+  {
+    "id": 348,
+    "name": "Apple iPhone 16",
+    "price": 3710.53
+  },
+  {
+    "id": 349,
+    "name": "Xiaomi Mi 12",
+    "price": 3129.7
+  },
+  {
+    "id": 350,
+    "name": "OnePlus Nord N200",
+    "price": 3208.16
+  },
+  {
+    "id": 351,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 296.51
+  },
+  {
+    "id": 352,
+    "name": "Samsung GalaxyS FE",
+    "price": 2576.77
+  },
+  {
+    "id": 353,
+    "name": "Huawei P50 Pro",
+    "price": 3649.96
+  },
+  {
+    "id": 354,
+    "name": "OnePlus 12T",
+    "price": 2440.63
+  },
+  {
+    "id": 355,
+    "name": "Huawei Mate",
+    "price": 3333.4
+  },
+  {
+    "id": 356,
+    "name": "Huawei P50",
+    "price": 3177.99
+  },
+  {
+    "id": 357,
+    "name": "Huawei Mate RS",
+    "price": 3916.46
+  },
+  {
+    "id": 358,
+    "name": "OnePlus Nord CE",
+    "price": 4138.36
+  },
+  {
+    "id": 359,
+    "name": "Google Pixel 8 Pro",
+    "price": 2017.2
+  },
+  {
+    "id": 360,
+    "name": "Huawei Mate 40 Pro",
+    "price": 3728.46
+  },
+  {
+    "id": 361,
+    "name": "Google Pixel 8",
+    "price": 1699.22
+  },
+  {
+    "id": 362,
+    "name": "Apple iPhoneSE Pro",
+    "price": 4426.75
+  },
+  {
+    "id": 363,
+    "name": "Xiaomi Mi 13",
+    "price": 2746.04
+  },
+  {
+    "id": 364,
+    "name": "Google Pixel 9",
+    "price": 3796.81
+  },
+  {
+    "id": 365,
+    "name": "OnePlus Nord N10",
+    "price": 3476.57
+  },
+  {
+    "id": 366,
+    "name": "Google Pixel 9",
+    "price": 1484.67
+  },
+  {
+    "id": 367,
+    "name": "Apple iPhone 13",
+    "price": 3479.93
+  },
+  {
+    "id": 368,
+    "name": "Huawei Mate X",
+    "price": 1760.63
+  },
+  {
+    "id": 369,
+    "name": "Huawei P80",
+    "price": 3816.14
+  },
+  {
+    "id": 370,
+    "name": "Samsung Galaxy A52",
+    "price": 969.33
+  },
+  {
+    "id": 371,
+    "name": "Samsung GalaxyS Plus",
+    "price": 1390.7
+  },
+  {
+    "id": 372,
+    "name": "OnePlus 8 Pro",
+    "price": 114.29
+  },
+  {
+    "id": 373,
+    "name": "Google Pixel 5a 5G",
+    "price": 3899.83
+  },
+  {
+    "id": 374,
+    "name": "Xiaomi Mi Mix Alpha",
+    "price": 4605.8
+  },
+  {
+    "id": 375,
+    "name": "Apple iPhone 11 Pro",
+    "price": 3838.25
+  },
+  {
+    "id": 376,
+    "name": "Google Pixel",
+    "price": 306.66
+  },
+  {
+    "id": 377,
+    "name": "OnePlus 10R",
+    "price": 1930.73
+  },
+  {
+    "id": 378,
+    "name": "OnePlus 7 Pro",
+    "price": 1891.22
+  },
+  {
+    "id": 379,
+    "name": "Xiaomi Mi Pro",
+    "price": 4864.87
+  },
+  {
+    "id": 380,
+    "name": "Apple iPhoneSE Mini",
+    "price": 3522.16
+  },
+  {
+    "id": 381,
+    "name": "Xiaomi Mi 10",
+    "price": 999
+  },
+  {
+    "id": 382,
+    "name": "Apple iPhone 14",
+    "price": 3654.92
+  },
+  {
+    "id": 383,
+    "name": "Huawei Mate X",
+    "price": 803.55
+  },
+  {
+    "id": 384,
+    "name": "Huawei P30 Pro",
+    "price": 2775.13
+  },
+  {
+    "id": 385,
+    "name": "Xiaomi Poco X4",
+    "price": 858.77
+  },
+  {
+    "id": 386,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 4884.94
+  },
+  {
+    "id": 387,
+    "name": "Google Pixel 5a",
+    "price": 3379.68
+  },
+  {
+    "id": 388,
+    "name": "OnePlus 8T",
+    "price": 4416.13
+  },
+  {
+    "id": 389,
+    "name": "Google Pixel 5",
+    "price": 3088.13
+  },
+  {
+    "id": 390,
+    "name": "OnePlus 12 Pro",
+    "price": 4941.21
+  },
+  {
+    "id": 391,
+    "name": "Huawei Mate 30 Pro",
+    "price": 764.12
+  },
+  {
+    "id": 392,
+    "name": "Huawei P80 Pro",
+    "price": 538.63
+  },
+  {
+    "id": 393,
+    "name": "Samsung Galaxy Note 20",
+    "price": 2429.87
+  },
+  {
+    "id": 394,
+    "name": "Google Pixel 8a",
+    "price": 4665.93
+  },
+  {
+    "id": 395,
+    "name": "OnePlus 12 Pro",
+    "price": 2316.51
+  },
+  {
+    "id": 396,
+    "name": "Samsung GalaxyS",
+    "price": 502.32
+  },
+  {
+    "id": 397,
+    "name": "OnePlus 11",
+    "price": 4162.42
+  },
+  {
+    "id": 398,
+    "name": "Xiaomi Mi 13",
+    "price": 461.68
+  },
+  {
+    "id": 399,
+    "name": "Huawei Mate X",
+    "price": 4796.96
+  },
+  {
+    "id": 400,
+    "name": "Xiaomi Mi",
+    "price": 4792.18
+  },
+  {
+    "id": 401,
+    "name": "Google Pixel 8a",
+    "price": 1885.29
+  },
+  {
+    "id": 402,
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 4482.88
+  },
+  {
+    "id": 403,
+    "name": "Huawei Mate X",
+    "price": 3806.98
+  },
+  {
+    "id": 404,
+    "name": "Apple iPhone 17",
+    "price": 2964.64
+  },
+  {
+    "id": 405,
+    "name": "OnePlus 9T",
+    "price": 4907.07
+  },
+  {
+    "id": 406,
+    "name": "Samsung Galaxy A52",
+    "price": 4279.45
+  },
+  {
+    "id": 407,
+    "name": "Google Pixel 7 Pro",
+    "price": 1339.9
+  },
+  {
+    "id": 408,
+    "name": "Google Pixel 7a",
+    "price": 466.26
+  },
+  {
+    "id": 409,
+    "name": "Google Pixel 6 XL",
+    "price": 712.41
+  },
+  {
+    "id": 410,
+    "name": "Huawei P30 Pro",
+    "price": 3652.95
+  },
+  {
+    "id": 411,
+    "name": "Xiaomi Mi 12",
+    "price": 254.96
+  },
+  {
+    "id": 412,
+    "name": "Apple iPhone 15",
+    "price": 3710.88
+  },
+  {
+    "id": 413,
+    "name": "Apple iPhone 14 Pro",
+    "price": 3849.51
+  },
+  {
+    "id": 414,
+    "name": "Xiaomi Redmi K40",
+    "price": 797.21
+  },
+  {
+    "id": 415,
+    "name": "Xiaomi Mi 10 Pro",
+    "price": 2718.26
+  },
+  {
+    "id": 416,
+    "name": "Apple iPhoneSE Mini",
+    "price": 3509.01
+  },
+  {
+    "id": 417,
+    "name": "Xiaomi Mi Mix Alpha",
+    "price": 2086.99
+  },
+  {
+    "id": 418,
+    "name": "Google Pixel 6 XL",
+    "price": 3180.94
+  },
+  {
+    "id": 419,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 1767.8
+  },
+  {
+    "id": 420,
+    "name": "Samsung Galaxy S20 FE",
+    "price": 4372.12
+  },
+  {
+    "id": 421,
+    "name": "Apple iPhone SE 2024",
+    "price": 2982.9
+  },
+  {
+    "id": 422,
+    "name": "Google Pixel",
+    "price": 4529.79
+  },
+  {
+    "id": 423,
+    "name": "OnePlus Nord N10",
+    "price": 325.58
+  },
+  {
+    "id": 424,
+    "name": "Google Pixel 8a",
+    "price": 1194.09
+  },
+  {
+    "id": 425,
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 3503.27
+  },
+  {
+    "id": 426,
+    "name": "Google Pixel 9 Pro",
+    "price": 1266.35
+  },
+  {
+    "id": 427,
+    "name": "Apple iPhone SE 2022",
+    "price": 4042.49
+  },
+  {
+    "id": 428,
+    "name": "Google Pixel 6 XL",
+    "price": 816.22
+  },
+  {
+    "id": 429,
+    "name": "Xiaomi Mi 10",
+    "price": 3938.06
+  },
+  {
+    "id": 430,
+    "name": "Huawei P40 Pro",
+    "price": 3176.94
+  },
+  {
+    "id": 431,
+    "name": "Google Pixel 4 XL",
+    "price": 1352.37
+  },
+  {
+    "id": 432,
+    "name": "Samsung Galaxy S24",
+    "price": 2186.42
+  },
+  {
+    "id": 433,
+    "name": "Apple iPhone 13",
+    "price": 1260.83
+  },
+  {
+    "id": 434,
+    "name": "Samsung Galaxy A52",
+    "price": 1968.7
+  },
+  {
+    "id": 435,
+    "name": "Apple iPhoneSE Pro",
+    "price": 2481.29
+  },
+  {
+    "id": 436,
+    "name": "OnePlus 10R",
+    "price": 4138.7
+  },
+  {
+    "id": 437,
+    "name": "Huawei Mate Pro",
+    "price": 4617.12
+  },
+  {
+    "id": 438,
+    "name": "OnePlus 9T",
+    "price": 1024.95
+  },
+  {
+    "id": 439,
+    "name": "Apple iPhone 16 Pro",
+    "price": 2619.79
+  },
+  {
+    "id": 440,
+    "name": "Google Pixel 8",
+    "price": 3945.97
+  },
+  {
+    "id": 441,
+    "name": "Apple iPhone SE 2024",
+    "price": 3596.98
+  },
+  {
+    "id": 442,
+    "name": "Google Pixel 7a",
+    "price": 4473.2
+  },
+  {
+    "id": 443,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 2465.39
+  },
+  {
+    "id": 444,
+    "name": "Samsung GalaxyS",
+    "price": 2265.59
+  },
+  {
+    "id": 445,
+    "name": "Xiaomi Mi 13 Pro",
+    "price": 3040.76
+  },
+  {
+    "id": 446,
+    "name": "Samsung Galaxy S23",
+    "price": 1924.62
+  },
+  {
+    "id": 447,
+    "name": "Apple iPhoneSE Mini",
+    "price": 343.88
+  },
+  {
+    "id": 448,
+    "name": "Apple iPhone 12",
+    "price": 1585.03
+  },
+  {
+    "id": 449,
+    "name": "Samsung GalaxyS",
+    "price": 3050.92
+  },
+  {
+    "id": 450,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 4331.59
+  },
+  {
+    "id": 451,
+    "name": "OnePlus 10 Pro",
+    "price": 2747.29
+  },
+  {
+    "id": 452,
+    "name": "OnePlus 12 Pro",
+    "price": 2282.78
+  },
+  {
+    "id": 453,
+    "name": "OnePlus 11",
+    "price": 3078.42
+  },
+  {
+    "id": 454,
+    "name": "Google Pixel 4",
+    "price": 4703.78
+  },
+  {
+    "id": 455,
+    "name": "Huawei Mate Pro",
+    "price": 2463.71
+  },
+  {
+    "id": 456,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 4918.8
+  },
+  {
+    "id": 457,
+    "name": "Apple iPhoneSE Pro",
+    "price": 1479.87
+  },
+  {
+    "id": 458,
+    "name": "Google Pixel",
+    "price": 729.81
+  },
+  {
+    "id": 459,
+    "name": "OnePlus 10 Pro",
+    "price": 3231.98
+  },
+  {
+    "id": 460,
+    "name": "Google Pixel 8",
+    "price": 1217.67
+  },
+  {
+    "id": 461,
+    "name": "Samsung Galaxy Z Flip 6",
+    "price": 881.67
+  },
+  {
+    "id": 462,
+    "name": "Xiaomi Mi 11",
+    "price": 4502.82
+  },
+  {
+    "id": 463,
+    "name": "Apple iPhoneSE Mini",
+    "price": 4930.35
+  },
+  {
+    "id": 464,
+    "name": "Xiaomi Mi Mix Alpha",
+    "price": 3434.99
+  },
+  {
+    "id": 465,
+    "name": "Xiaomi Mi Max",
+    "price": 4063.77
+  },
+  {
+    "id": 466,
+    "name": "Xiaomi Mi 10 Pro",
+    "price": 3139.22
+  },
+  {
+    "id": 467,
+    "name": "Huawei Mate",
+    "price": 2591.71
+  },
+  {
+    "id": 468,
+    "name": "Samsung Galaxy Note 20",
+    "price": 354.21
+  },
+  {
+    "id": 469,
+    "name": "Huawei P50 Pro Lite",
+    "price": 4535.36
+  },
+  {
+    "id": 470,
+    "name": "Xiaomi Mi 12 Pro",
+    "price": 3594.06
+  },
+  {
+    "id": 471,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 2220.45
+  },
+  {
+    "id": 472,
+    "name": "Apple iPhoneSE Max",
+    "price": 2211.8
+  },
+  {
+    "id": 473,
+    "name": "Google Pixel 7",
+    "price": 4964.79
+  },
+  {
+    "id": 474,
+    "name": "Samsung GalaxyS Ultra",
+    "price": 1213.67
+  },
+  {
+    "id": 475,
+    "name": "Xiaomi Mi 10",
+    "price": 4720.44
+  },
+  {
+    "id": 476,
+    "name": "Huawei P60 Pro",
+    "price": 441.88
+  },
+  {
+    "id": 477,
+    "name": "Google Pixel 8",
+    "price": 7.6
+  },
+  {
+    "id": 478,
+    "name": "OnePlus 12T",
+    "price": 688.85
+  },
+  {
+    "id": 479,
+    "name": "Apple iPhoneSE",
+    "price": 1818.87
+  },
+  {
+    "id": 480,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 3057.85
+  },
+  {
+    "id": 481,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 478.23
+  },
+  {
+    "id": 482,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 3406.33
+  },
+  {
+    "id": 483,
+    "name": "Xiaomi Mi 11",
+    "price": 4635.9
+  },
+  {
+    "id": 484,
+    "name": "OnePlus 9T",
+    "price": 1836.5
+  },
+  {
+    "id": 485,
+    "name": "Google Pixel XL",
+    "price": 4078.52
+  },
+  {
+    "id": 486,
+    "name": "Apple iPhoneSE Pro",
+    "price": 3749.92
+  },
+  {
+    "id": 487,
+    "name": "Huawei Mate",
+    "price": 2312.27
+  },
+  {
+    "id": 488,
+    "name": "Xiaomi Mi 13 Pro",
+    "price": 3913.06
+  },
+  {
+    "id": 489,
+    "name": "Huawei P60",
+    "price": 2774.2
+  },
+  {
+    "id": 490,
+    "name": "Apple iPhone SE 2024",
+    "price": 2710.01
+  },
+  {
+    "id": 491,
+    "name": "Samsung GalaxyS Plus",
+    "price": 4029.32
+  },
+  {
+    "id": 492,
+    "name": "OnePlus 8T",
+    "price": 4479.75
+  },
+  {
+    "id": 493,
+    "name": "Huawei P80 Pro",
+    "price": 1790.83
+  },
+  {
+    "id": 494,
+    "name": "OnePlus 11 Pro",
+    "price": 3881.3
+  },
+  {
+    "id": 495,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 516.68
+  },
+  {
+    "id": 496,
+    "name": "Huawei P60 Pro",
+    "price": 187.58
+  },
+  {
+    "id": 497,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 2941.2
+  },
+  {
+    "id": 498,
+    "name": "Xiaomi Mi 12",
+    "price": 4741.35
+  },
+  {
+    "id": 499,
+    "name": "Apple iPhone 13",
+    "price": 4424.4
+  },
+  {
+    "id": 500,
+    "name": "Apple iPhoneSE Pro",
+    "price": 2728.76
+  },
+  {
+    "id": 501,
+    "name": "Huawei Mate RS",
+    "price": 4519.34
+  },
+  {
+    "id": 502,
+    "name": "Google Pixel 8a",
+    "price": 223.49
+  },
+  {
+    "id": 503,
+    "name": "OnePlus 9",
+    "price": 55.44
+  },
+  {
+    "id": 504,
+    "name": "Google Pixel 5a",
+    "price": 3454.63
+  },
+  {
+    "id": 505,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1130.17
+  },
+  {
+    "id": 506,
+    "name": "OnePlus 9 RT",
+    "price": 4651.97
+  },
+  {
+    "id": 507,
+    "name": "Huawei Mate 40",
+    "price": 76.85
+  },
+  {
+    "id": 508,
+    "name": "Samsung Galaxy S23",
+    "price": 4297.36
+  },
+  {
+    "id": 509,
+    "name": "Huawei P40 Pro",
+    "price": 4319.9
+  },
+  {
+    "id": 510,
+    "name": "Google Pixel 8 Pro",
+    "price": 4970.29
+  },
+  {
+    "id": 511,
+    "name": "Google Pixel 8 Pro",
+    "price": 510.02
+  },
+  {
+    "id": 512,
+    "name": "Google Pixel 5a",
+    "price": 1903.28
+  },
+  {
+    "id": 513,
+    "name": "Apple iPhone 11 Pro",
+    "price": 2375.31
+  },
+  {
+    "id": 514,
+    "name": "Huawei P40 Pro",
+    "price": 3182.82
+  },
+  {
+    "id": 515,
+    "name": "Google Pixel 9 Pro",
+    "price": 4115.81
+  },
+  {
+    "id": 516,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 2231.07
+  },
+  {
+    "id": 517,
+    "name": "Huawei Mate 40 Pro",
+    "price": 3401.64
+  },
+  {
+    "id": 518,
+    "name": "Samsung Galaxy S23",
+    "price": 4576.73
+  },
+  {
+    "id": 519,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 246.22
+  },
+  {
+    "id": 520,
+    "name": "Huawei P40 Pro",
+    "price": 4150.04
+  },
+  {
+    "id": 521,
+    "name": "Huawei Mate X",
+    "price": 3586.32
+  },
+  {
+    "id": 522,
+    "name": "OnePlus 7T",
+    "price": 245.16
+  },
+  {
+    "id": 523,
+    "name": "Google Pixel 7 Pro",
+    "price": 1427.59
+  },
+  {
+    "id": 524,
+    "name": "OnePlus 11",
+    "price": 1515.18
+  },
+  {
+    "id": 525,
+    "name": "Samsung Galaxy Note 20",
+    "price": 1117.06
+  },
+  {
+    "id": 526,
+    "name": "Google Pixel 5a 5G",
+    "price": 3239.71
+  },
+  {
+    "id": 527,
+    "name": "Huawei P60",
+    "price": 1931.82
+  },
+  {
+    "id": 528,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 952.04
+  },
+  {
+    "id": 529,
+    "name": "OnePlus 8T",
+    "price": 4875.97
+  },
+  {
+    "id": 530,
+    "name": "Xiaomi Mi",
+    "price": 3397.34
+  },
+  {
+    "id": 531,
+    "name": "OnePlus 9T",
+    "price": 2244.23
+  },
+  {
+    "id": 532,
+    "name": "Samsung GalaxyZ Fold",
+    "price": 858.89
+  },
+  {
+    "id": 533,
+    "name": "OnePlus 7 Pro",
+    "price": 4877.93
+  },
+  {
+    "id": 534,
+    "name": "Samsung Galaxy Z Flip 3",
+    "price": 2302.15
+  },
+  {
+    "id": 535,
+    "name": "Apple iPhoneSE Max",
+    "price": 3867.3
+  },
+  {
+    "id": 536,
+    "name": "Apple iPhoneSE Pro",
+    "price": 203.23
+  },
+  {
+    "id": 537,
+    "name": "Huawei P80 Pro",
+    "price": 79.54
+  },
+  {
+    "id": 538,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 4556.04
+  },
+  {
+    "id": 539,
+    "name": "Samsung Galaxy S23",
+    "price": 4906.38
+  },
+  {
+    "id": 540,
+    "name": "Huawei P30 Pro",
+    "price": 2279.59
+  },
+  {
+    "id": 541,
+    "name": "Huawei P40 Pro",
+    "price": 303.47
+  },
+  {
+    "id": 542,
+    "name": "Samsung Galaxy S24",
+    "price": 4028.97
+  },
+  {
+    "id": 543,
+    "name": "Google Pixel 6 XL",
+    "price": 48.83
+  },
+  {
+    "id": 544,
+    "name": "Samsung Galaxy S23",
+    "price": 4432.5
+  },
+  {
+    "id": 545,
+    "name": "Samsung Galaxy Z Flip 3",
+    "price": 4436.12
+  },
+  {
+    "id": 546,
+    "name": "OnePlus Nord CE 2",
+    "price": 3869.97
+  },
+  {
+    "id": 547,
+    "name": "Google Pixel 4",
+    "price": 1888.88
+  },
+  {
+    "id": 548,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 558.19
+  },
+  {
+    "id": 549,
+    "name": "Samsung Galaxy S23",
+    "price": 1445.65
+  },
+  {
+    "id": 550,
+    "name": "Samsung GalaxyZ Fold",
+    "price": 335.87
+  },
+  {
+    "id": 551,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 1881.84
+  },
+  {
+    "id": 552,
+    "name": "OnePlus 10 Pro",
+    "price": 3321.56
+  },
+  {
+    "id": 553,
+    "name": "OnePlus 9",
+    "price": 3186.73
+  },
+  {
+    "id": 554,
+    "name": "Samsung Galaxy S21",
+    "price": 1528.33
+  },
+  {
+    "id": 555,
+    "name": "Xiaomi Redmi K40",
+    "price": 3253.31
+  },
+  {
+    "id": 556,
+    "name": "Apple iPhone 14 Pro",
+    "price": 2331.23
+  },
+  {
+    "id": 557,
+    "name": "Xiaomi Mi Pro",
+    "price": 18.22
+  },
+  {
+    "id": 558,
+    "name": "Xiaomi Poco F3",
+    "price": 2098.97
+  },
+  {
+    "id": 559,
+    "name": "OnePlus 7 Pro",
+    "price": 4939.68
+  },
+  {
+    "id": 560,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 3244.01
+  },
+  {
+    "id": 561,
+    "name": "Huawei P30 Pro",
+    "price": 3091.41
+  },
+  {
+    "id": 562,
+    "name": "Google Pixel 6 Pro",
+    "price": 3505.77
+  },
+  {
+    "id": 563,
+    "name": "Huawei Mate",
+    "price": 4384.97
+  },
+  {
+    "id": 564,
+    "name": "Huawei P60",
+    "price": 2462.65
+  },
+  {
+    "id": 565,
+    "name": "OnePlus 7T",
+    "price": 4244.4
+  },
+  {
+    "id": 566,
+    "name": "Apple iPhone 17",
+    "price": 4334.8
+  },
+  {
+    "id": 567,
+    "name": "Xiaomi Redmi Note 11",
+    "price": 4634.27
+  },
+  {
+    "id": 568,
+    "name": "OnePlus 8 Pro",
+    "price": 1313.99
+  },
+  {
+    "id": 569,
+    "name": "Xiaomi Poco X4",
+    "price": 191.54
+  },
+  {
+    "id": 570,
+    "name": "Apple iPhone SE 2024",
+    "price": 3160.03
+  },
+  {
+    "id": 571,
+    "name": "Google Pixel 7 Pro",
+    "price": 4173.4
+  },
+  {
+    "id": 572,
+    "name": "Xiaomi Mi Mix 5",
+    "price": 1637.76
+  },
+  {
+    "id": 573,
+    "name": "Huawei P50 Pro Lite",
+    "price": 1534.66
+  },
+  {
+    "id": 574,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 4383.24
+  },
+  {
+    "id": 575,
+    "name": "Huawei P40 Pro",
+    "price": 131.98
+  },
+  {
+    "id": 576,
+    "name": "Apple iPhone 15",
+    "price": 4807.84
+  },
+  {
+    "id": 577,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 847.69
+  },
+  {
+    "id": 578,
+    "name": "Google Pixel 5 XL",
+    "price": 2891.05
+  },
+  {
+    "id": 579,
+    "name": "Google Pixel 4a",
+    "price": 4696.75
+  },
+  {
+    "id": 580,
+    "name": "Huawei Mate 40",
+    "price": 225.46
+  },
+  {
+    "id": 581,
+    "name": "Google Pixel 5 XL",
+    "price": 4660.41
+  },
+  {
+    "id": 582,
+    "name": "Apple iPhone 11 Pro",
+    "price": 1584.78
+  },
+  {
+    "id": 583,
+    "name": "Xiaomi Mi 13",
+    "price": 237.65
+  },
+  {
+    "id": 584,
+    "name": "Huawei Mate X",
+    "price": 360.92
+  },
+  {
+    "id": 585,
+    "name": "Xiaomi Mi 10",
+    "price": 4942.67
+  },
+  {
+    "id": 586,
+    "name": "Apple iPhone 14",
+    "price": 3893.64
+  },
+  {
+    "id": 587,
+    "name": "Samsung GalaxyZ Fold",
+    "price": 60.46
+  },
+  {
+    "id": 588,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 1386.34
+  },
+  {
+    "id": 589,
+    "name": "Google Pixel 7 Pro",
+    "price": 2216.96
+  },
+  {
+    "id": 590,
+    "name": "Google Pixel 6 XL",
+    "price": 3069.08
+  },
+  {
+    "id": 591,
+    "name": "Xiaomi Mi Max",
+    "price": 4946.58
+  },
+  {
+    "id": 592,
+    "name": "Huawei P80",
+    "price": 4470.21
+  },
+  {
+    "id": 593,
+    "name": "Huawei P30 Pro",
+    "price": 258.12
+  },
+  {
+    "id": 594,
+    "name": "Huawei P80 Pro",
+    "price": 716.74
+  },
+  {
+    "id": 595,
+    "name": "Google Pixel 6 Pro",
+    "price": 1192.88
+  },
+  {
+    "id": 596,
+    "name": "Apple iPhone SE 2024",
+    "price": 2325.16
+  },
+  {
+    "id": 597,
+    "name": "Xiaomi Poco F3",
+    "price": 4401.27
+  },
+  {
+    "id": 598,
+    "name": "Samsung Galaxy A52",
+    "price": 2306.02
+  },
+  {
+    "id": 599,
+    "name": "Google Pixel 8a",
+    "price": 4347.36
+  },
+  {
+    "id": 600,
+    "name": "Samsung Galaxy S21",
+    "price": 919.42
+  },
+  {
+    "id": 601,
+    "name": "Apple iPhone 15",
+    "price": 1308.66
+  },
+  {
+    "id": 602,
+    "name": "Huawei P40",
+    "price": 93.17
+  },
+  {
+    "id": 603,
+    "name": "Samsung GalaxyS Ultra",
+    "price": 2694.65
+  },
+  {
+    "id": 604,
+    "name": "OnePlus 7T",
+    "price": 3195.31
+  },
+  {
+    "id": 605,
+    "name": "OnePlus 11 Pro",
+    "price": 4967.12
+  },
+  {
+    "id": 606,
+    "name": "Google Pixel 4",
+    "price": 4083.38
+  },
+  {
+    "id": 607,
+    "name": "Xiaomi Mi 11",
+    "price": 3520.28
+  },
+  {
+    "id": 608,
+    "name": "Google Pixel 6",
+    "price": 4489.44
+  },
+  {
+    "id": 609,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 2397.21
+  },
+  {
+    "id": 610,
+    "name": "Xiaomi Mi 13",
+    "price": 3595.39
+  },
+  {
+    "id": 611,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1999.88
+  },
+  {
+    "id": 612,
+    "name": "Huawei P80 Pro",
+    "price": 998.77
+  },
+  {
+    "id": 613,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 1076.02
+  },
+  {
+    "id": 614,
+    "name": "Apple iPhone 16 Pro",
+    "price": 91.71
+  },
+  {
+    "id": 615,
+    "name": "Huawei Mate",
+    "price": 1359.62
+  },
+  {
+    "id": 616,
+    "name": "Xiaomi Mi Mix 5",
+    "price": 3009.6
+  },
+  {
+    "id": 617,
+    "name": "Apple iPhone SE 2024",
+    "price": 1570.98
+  },
+  {
+    "id": 618,
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 1474.09
+  },
+  {
+    "id": 619,
+    "name": "Google Pixel 9",
+    "price": 68.36
+  },
+  {
+    "id": 620,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 4138.33
+  },
+  {
+    "id": 621,
+    "name": "Samsung Galaxy Note 20",
+    "price": 4440.35
+  },
+  {
+    "id": 622,
+    "name": "Huawei P80",
+    "price": 764.04
+  },
+  {
+    "id": 623,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 4598.04
+  },
+  {
+    "id": 624,
+    "name": "Google Pixel XL",
+    "price": 1091.57
+  },
+  {
+    "id": 625,
+    "name": "Huawei P40",
+    "price": 1830.7
+  },
+  {
+    "id": 626,
+    "name": "Huawei Mate 30 Pro",
+    "price": 2377.02
+  },
+  {
+    "id": 627,
+    "name": "Xiaomi Poco F3",
+    "price": 956.67
+  },
+  {
+    "id": 628,
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 3479.87
+  },
+  {
+    "id": 629,
+    "name": "Huawei P50",
+    "price": 4412.15
+  },
+  {
+    "id": 630,
+    "name": "Apple iPhone 15",
+    "price": 246.47
+  },
+  {
+    "id": 631,
+    "name": "Google Pixel 7a",
+    "price": 3273.48
+  },
+  {
+    "id": 632,
+    "name": "Huawei Mate",
+    "price": 1544.39
+  },
+  {
+    "id": 633,
+    "name": "Xiaomi Poco X4",
+    "price": 845.79
+  },
+  {
+    "id": 634,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1297.93
+  },
+  {
+    "id": 635,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 3723.15
+  },
+  {
+    "id": 636,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 3066.63
+  },
+  {
+    "id": 637,
+    "name": "Apple iPhone 16",
+    "price": 4857.31
+  },
+  {
+    "id": 638,
+    "name": "Huawei Mate X2",
+    "price": 1881.75
+  },
+  {
+    "id": 639,
+    "name": "Apple iPhone 11 Pro",
+    "price": 1878.16
+  },
+  {
+    "id": 640,
+    "name": "Apple iPhone 14 Pro",
+    "price": 2846.07
+  },
+  {
+    "id": 641,
+    "name": "Apple iPhone 13 Mini",
+    "price": 4322.25
+  },
+  {
+    "id": 642,
+    "name": "Google Pixel 6 Pro",
+    "price": 4659.7
+  },
+  {
+    "id": 643,
+    "name": "OnePlus 7T",
+    "price": 1313.25
+  },
+  {
+    "id": 644,
+    "name": "Apple iPhone 17",
+    "price": 1379.08
+  },
+  {
+    "id": 645,
+    "name": "Apple iPhone 14 Pro",
+    "price": 1098.51
+  },
+  {
+    "id": 646,
+    "name": "Google Pixel 5 XL",
+    "price": 3371.77
+  },
+  {
+    "id": 647,
+    "name": "Google Pixel 4a",
+    "price": 3652.81
+  },
+  {
+    "id": 648,
+    "name": "OnePlus 9",
+    "price": 4829.68
+  },
+  {
+    "id": 649,
+    "name": "Google Pixel 6a",
+    "price": 4477.54
+  },
+  {
+    "id": 650,
+    "name": "Xiaomi Redmi Note 11",
+    "price": 1737.83
+  },
+  {
+    "id": 651,
+    "name": "Samsung GalaxyS FE",
+    "price": 1064.48
+  },
+  {
+    "id": 652,
+    "name": "OnePlus 11 Pro",
+    "price": 51.2
+  },
+  {
+    "id": 653,
+    "name": "Xiaomi Mi",
+    "price": 4646.62
+  },
+  {
+    "id": 654,
+    "name": "Google Pixel 7",
+    "price": 2407.38
+  },
+  {
+    "id": 655,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 3204.16
+  },
+  {
+    "id": 656,
+    "name": "Apple iPhone 16 Pro",
+    "price": 608.1
+  },
+  {
+    "id": 657,
+    "name": "Huawei Mate 40 Pro",
+    "price": 2483.98
+  },
+  {
+    "id": 658,
+    "name": "Google Pixel 6",
+    "price": 4399.47
+  },
+  {
+    "id": 659,
+    "name": "Apple iPhone 12",
+    "price": 4745.47
+  },
+  {
+    "id": 660,
+    "name": "Xiaomi Mi",
+    "price": 716.43
+  },
+  {
+    "id": 661,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 4567.5
+  },
+  {
+    "id": 662,
+    "name": "Apple iPhoneSE Pro",
+    "price": 3566.49
+  },
+  {
+    "id": 663,
+    "name": "Apple iPhone 14",
+    "price": 2671.95
+  },
+  {
+    "id": 664,
+    "name": "Apple iPhoneSE Mini",
+    "price": 4130.5
+  },
+  {
+    "id": 665,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 3399.95
+  },
+  {
+    "id": 666,
+    "name": "Xiaomi Mi 12",
+    "price": 3983.78
+  },
+  {
+    "id": 667,
+    "name": "Huawei Mate X",
+    "price": 3670.55
+  },
+  {
+    "id": 668,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 2822.55
+  },
+  {
+    "id": 669,
+    "name": "Huawei Mate X",
+    "price": 2560.93
+  },
+  {
+    "id": 670,
+    "name": "Huawei P50",
+    "price": 3134.99
+  },
+  {
+    "id": 671,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 24
+  },
+  {
+    "id": 672,
+    "name": "Samsung GalaxyZ Fold",
+    "price": 4773.7
+  },
+  {
+    "id": 673,
+    "name": "Huawei Mate Pro",
+    "price": 915.21
+  },
+  {
+    "id": 674,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 4216.47
+  },
+  {
+    "id": 675,
+    "name": "Google Pixel 9",
+    "price": 1280.41
+  },
+  {
+    "id": 676,
+    "name": "Samsung Galaxy S21",
+    "price": 1003.53
+  },
+  {
+    "id": 677,
+    "name": "Huawei Mate RS",
+    "price": 1631.11
+  },
+  {
+    "id": 678,
+    "name": "Samsung GalaxyS 21 FE",
+    "price": 2619.83
+  },
+  {
+    "id": 679,
+    "name": "OnePlus 6T",
+    "price": 774.52
+  },
+  {
+    "id": 680,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 2588.09
+  },
+  {
+    "id": 681,
+    "name": "Samsung GalaxyS FE",
+    "price": 3272.32
+  },
+  {
+    "id": 682,
+    "name": "Xiaomi Redmi K40",
+    "price": 4031.17
+  },
+  {
+    "id": 683,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 729.32
+  },
+  {
+    "id": 684,
+    "name": "Xiaomi Mi 13",
+    "price": 3519.87
+  },
+  {
+    "id": 685,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 850.8
+  },
+  {
+    "id": 686,
+    "name": "OnePlus 9",
+    "price": 4313.93
+  },
+  {
+    "id": 687,
+    "name": "Google Pixel 4 XL",
+    "price": 3919.29
+  },
+  {
+    "id": 688,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 1177.07
+  },
+  {
+    "id": 689,
+    "name": "OnePlus 9",
+    "price": 4479.38
+  },
+  {
+    "id": 690,
+    "name": "Apple iPhone 14 Pro",
+    "price": 3478.31
+  },
+  {
+    "id": 691,
+    "name": "Huawei P50 Pro",
+    "price": 709.65
+  },
+  {
+    "id": 692,
+    "name": "Apple iPhone 14",
+    "price": 1493.3
+  },
+  {
+    "id": 693,
+    "name": "OnePlus 9R",
+    "price": 4773.49
+  },
+  {
+    "id": 694,
+    "name": "Huawei P60",
+    "price": 1304.99
+  },
+  {
+    "id": 695,
+    "name": "Samsung GalaxyS FE",
+    "price": 789.28
+  },
+  {
+    "id": 696,
+    "name": "Apple iPhone 14 Pro",
+    "price": 3745.96
+  },
+  {
+    "id": 697,
+    "name": "Xiaomi Redmi Note 11",
+    "price": 846.51
+  },
+  {
+    "id": 698,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 1068.57
+  },
+  {
+    "id": 699,
+    "name": "Huawei P80 Pro",
+    "price": 711.13
+  },
+  {
+    "id": 700,
+    "name": "Samsung GalaxyZ Fold",
+    "price": 2219.56
+  },
+  {
+    "id": 701,
+    "name": "Google Pixel 8a",
+    "price": 3357.24
+  },
+  {
+    "id": 702,
+    "name": "Xiaomi Poco F3",
+    "price": 4012.79
+  },
+  {
+    "id": 703,
+    "name": "Xiaomi Mi 11",
+    "price": 859.92
+  },
+  {
+    "id": 704,
+    "name": "OnePlus 11",
+    "price": 424.97
+  },
+  {
+    "id": 705,
+    "name": "Samsung Galaxy S24",
+    "price": 1617.56
+  },
+  {
+    "id": 706,
+    "name": "Huawei P50",
+    "price": 2891.83
+  },
+  {
+    "id": 707,
+    "name": "Samsung Galaxy Note 20",
+    "price": 3750.7
+  },
+  {
+    "id": 708,
+    "name": "OnePlus 9",
+    "price": 1558.7
+  },
+  {
+    "id": 709,
+    "name": "OnePlus Nord N10",
+    "price": 3957.7
+  },
+  {
+    "id": 710,
+    "name": "Google Pixel 7",
+    "price": 4303.39
+  },
+  {
+    "id": 711,
+    "name": "Huawei Mate 40 Pro",
+    "price": 4842.63
+  },
+  {
+    "id": 712,
+    "name": "Apple iPhone 11 Pro",
+    "price": 3602.32
+  },
+  {
+    "id": 713,
+    "name": "Apple iPhone 13 Mini",
+    "price": 4075.2
+  },
+  {
+    "id": 714,
+    "name": "OnePlus 10R",
+    "price": 108.48
+  },
+  {
+    "id": 715,
+    "name": "Google Pixel 9 Pro",
+    "price": 4729.31
+  },
+  {
+    "id": 716,
+    "name": "Xiaomi Mi 11",
+    "price": 4475.83
+  },
+  {
+    "id": 717,
+    "name": "Apple iPhone 13 Mini",
+    "price": 3803.29
+  },
+  {
+    "id": 718,
+    "name": "Huawei P40 Pro",
+    "price": 4310.35
+  },
+  {
+    "id": 719,
+    "name": "Apple iPhone 13 Mini",
+    "price": 609.3
+  },
+  {
+    "id": 720,
+    "name": "Samsung Galaxy S21",
+    "price": 3599.33
+  },
+  {
+    "id": 721,
+    "name": "Samsung GalaxyS Plus",
+    "price": 1024.57
+  },
+  {
+    "id": 722,
+    "name": "OnePlus Nord N200",
+    "price": 1518.08
+  },
+  {
+    "id": 723,
+    "name": "OnePlus Nord N10",
+    "price": 4229.12
+  },
+  {
+    "id": 724,
+    "name": "Xiaomi Mi 10",
+    "price": 2671.39
+  },
+  {
+    "id": 725,
+    "name": "Huawei Mate RS",
+    "price": 1479.8
+  },
+  {
+    "id": 726,
+    "name": "Google Pixel 8 Pro",
+    "price": 4542.04
+  },
+  {
+    "id": 727,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 3758.4
+  },
+  {
+    "id": 728,
+    "name": "Huawei Mate X",
+    "price": 3660.43
+  },
+  {
+    "id": 729,
+    "name": "Huawei Mate X2",
+    "price": 4498.17
+  },
+  {
+    "id": 730,
+    "name": "OnePlus 9T",
+    "price": 3078.51
+  },
+  {
+    "id": 731,
+    "name": "OnePlus 6T",
+    "price": 2322.54
+  },
+  {
+    "id": 732,
+    "name": "Samsung GalaxyS FE",
+    "price": 1512.87
+  },
+  {
+    "id": 733,
+    "name": "OnePlus 12",
+    "price": 681.82
+  },
+  {
+    "id": 734,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 4175.42
+  },
+  {
+    "id": 735,
+    "name": "OnePlus 10 Pro",
+    "price": 2990.41
+  },
+  {
+    "id": 736,
+    "name": "Samsung Galaxy S21",
+    "price": 4722.01
+  },
+  {
+    "id": 737,
+    "name": "Xiaomi Mi 12",
+    "price": 486.01
+  },
+  {
+    "id": 738,
+    "name": "Xiaomi Redmi Note 11",
+    "price": 392.57
+  },
+  {
+    "id": 739,
+    "name": "Xiaomi Mi 13 Pro",
+    "price": 1810.87
+  },
+  {
+    "id": 740,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 3377.34
+  },
+  {
+    "id": 741,
+    "name": "OnePlus 8T",
+    "price": 3810.72
+  },
+  {
+    "id": 742,
+    "name": "Apple iPhoneSE Max",
+    "price": 1820.64
+  },
+  {
+    "id": 743,
+    "name": "Huawei Mate X",
+    "price": 2473.43
+  },
+  {
+    "id": 744,
+    "name": "Samsung Galaxy S24",
+    "price": 999.36
+  },
+  {
+    "id": 745,
+    "name": "Google Pixel 6 Pro",
+    "price": 4695.69
+  },
+  {
+    "id": 746,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 12.74
+  },
+  {
+    "id": 747,
+    "name": "OnePlus 12T",
+    "price": 2711.66
+  },
+  {
+    "id": 748,
+    "name": "OnePlus Nord CE",
+    "price": 4273.93
+  },
+  {
+    "id": 749,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 847.38
+  },
+  {
+    "id": 750,
+    "name": "Samsung Galaxy Note 20",
+    "price": 2991.58
+  },
+  {
+    "id": 751,
+    "name": "Samsung Galaxy S23",
+    "price": 772.28
+  },
+  {
+    "id": 752,
+    "name": "Apple iPhone SE 2024",
+    "price": 1375
+  },
+  {
+    "id": 753,
+    "name": "Google Pixel 5a",
+    "price": 989.48
+  },
+  {
+    "id": 754,
+    "name": "Google Pixel 9",
+    "price": 4564.4
+  },
+  {
+    "id": 755,
+    "name": "Google Pixel 4",
+    "price": 4032.35
+  },
+  {
+    "id": 756,
+    "name": "Xiaomi Poco F3",
+    "price": 125.66
+  },
+  {
+    "id": 757,
+    "name": "Apple iPhone 13 Mini",
+    "price": 4833.53
+  },
+  {
+    "id": 758,
+    "name": "OnePlus 9R",
+    "price": 2824.32
+  },
+  {
+    "id": 759,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 2346.38
+  },
+  {
+    "id": 760,
+    "name": "OnePlus 10R",
+    "price": 80.93
+  },
+  {
+    "id": 761,
+    "name": "Huawei Mate X",
+    "price": 4331.4
+  },
+  {
+    "id": 762,
+    "name": "Xiaomi Mi 13",
+    "price": 1687.65
+  },
+  {
+    "id": 763,
+    "name": "OnePlus 7T",
+    "price": 1790.32
+  },
+  {
+    "id": 764,
+    "name": "Samsung Galaxy Note 20",
+    "price": 3235.77
+  },
+  {
+    "id": 765,
+    "name": "Huawei Mate Pro",
+    "price": 4540.5
+  },
+  {
+    "id": 766,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 1845.85
+  },
+  {
+    "id": 767,
+    "name": "Huawei P80 Pro",
+    "price": 2351.7
+  },
+  {
+    "id": 768,
+    "name": "Apple iPhone 14",
+    "price": 2961.22
+  },
+  {
+    "id": 769,
+    "name": "Huawei Mate RS",
+    "price": 4524.63
+  },
+  {
+    "id": 770,
+    "name": "Samsung GalaxyS",
+    "price": 1480.36
+  },
+  {
+    "id": 771,
+    "name": "Samsung Galaxy S24",
+    "price": 4178.92
+  },
+  {
+    "id": 772,
+    "name": "OnePlus 10 Pro",
+    "price": 355.07
+  },
+  {
+    "id": 773,
+    "name": "OnePlus 9 RT",
+    "price": 4316.82
+  },
+  {
+    "id": 774,
+    "name": "Samsung Galaxy Z Flip 3",
+    "price": 3059.67
+  },
+  {
+    "id": 775,
+    "name": "Samsung Galaxy S24",
+    "price": 1043.77
+  },
+  {
+    "id": 776,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1965.18
+  },
+  {
+    "id": 777,
+    "name": "Google Pixel 5 XL",
+    "price": 2119.91
+  },
+  {
+    "id": 778,
+    "name": "OnePlus 10 Pro",
+    "price": 2337.69
+  },
+  {
+    "id": 779,
+    "name": "Google Pixel 8",
+    "price": 711.2
+  },
+  {
+    "id": 780,
+    "name": "OnePlus Nord N200",
+    "price": 3367.25
+  },
+  {
+    "id": 781,
+    "name": "Huawei P80 Pro",
+    "price": 3558.37
+  },
+  {
+    "id": 782,
+    "name": "Huawei P60 Pro",
+    "price": 4869.41
+  },
+  {
+    "id": 783,
+    "name": "Samsung Galaxy S23",
+    "price": 618.24
+  },
+  {
+    "id": 784,
+    "name": "Xiaomi Mi 10",
+    "price": 2468.36
+  },
+  {
+    "id": 785,
+    "name": "Google Pixel 7",
+    "price": 2471.15
+  },
+  {
+    "id": 786,
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 966.37
+  },
+  {
+    "id": 787,
+    "name": "Google Pixel 5a 5G",
+    "price": 2951.21
+  },
+  {
+    "id": 788,
+    "name": "Huawei P30 Pro",
+    "price": 285.28
+  },
+  {
+    "id": 789,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 454.93
+  },
+  {
+    "id": 790,
+    "name": "Xiaomi Mi 12",
+    "price": 4981.72
+  },
+  {
+    "id": 791,
+    "name": "Xiaomi Poco F3",
+    "price": 1032.76
+  },
+  {
+    "id": 792,
+    "name": "Apple iPhone SE 2024",
+    "price": 3781.08
+  },
+  {
+    "id": 793,
+    "name": "OnePlus 12T",
+    "price": 4524.85
+  },
+  {
+    "id": 794,
+    "name": "Apple iPhone 13 Mini",
+    "price": 3623.89
+  },
+  {
+    "id": 795,
+    "name": "Huawei Mate RS",
+    "price": 268.49
+  },
+  {
+    "id": 796,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 4802.89
+  },
+  {
+    "id": 797,
+    "name": "Huawei P80 Pro",
+    "price": 4557.65
+  },
+  {
+    "id": 798,
+    "name": "Google Pixel XL",
+    "price": 2089.13
+  },
+  {
+    "id": 799,
+    "name": "OnePlus Nord CE",
+    "price": 1448
+  },
+  {
+    "id": 800,
+    "name": "Huawei Mate X",
+    "price": 3607.37
+  },
+  {
+    "id": 801,
+    "name": "Google Pixel 5a",
+    "price": 463.65
+  },
+  {
+    "id": 802,
+    "name": "OnePlus 7 Pro",
+    "price": 237.91
+  },
+  {
+    "id": 803,
+    "name": "Apple iPhone SE 2024",
+    "price": 1989.82
+  },
+  {
+    "id": 804,
+    "name": "Samsung GalaxyS Plus",
+    "price": 1008.56
+  },
+  {
+    "id": 805,
+    "name": "Xiaomi Poco F3",
+    "price": 3630.41
+  },
+  {
+    "id": 806,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 939.87
+  },
+  {
+    "id": 807,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 3320.03
+  },
+  {
+    "id": 808,
+    "name": "Apple iPhone 11 Pro",
+    "price": 2545.91
+  },
+  {
+    "id": 809,
+    "name": "Xiaomi Redmi K40",
+    "price": 3070.59
+  },
+  {
+    "id": 810,
+    "name": "OnePlus 12T",
+    "price": 2408.42
+  },
+  {
+    "id": 811,
+    "name": "Apple iPhone 13 Mini",
+    "price": 3789.03
+  },
+  {
+    "id": 812,
+    "name": "Xiaomi Mi 13 Pro",
+    "price": 1831.44
+  },
+  {
+    "id": 813,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 2205.29
+  },
+  {
+    "id": 814,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 902.81
+  },
+  {
+    "id": 815,
+    "name": "OnePlus 6T",
+    "price": 4719.75
+  },
+  {
+    "id": 816,
+    "name": "OnePlus Nord CE",
+    "price": 4565.35
+  },
+  {
+    "id": 817,
+    "name": "Apple iPhone 14 Pro+",
+    "price": 1594.12
+  },
+  {
+    "id": 818,
+    "name": "Huawei P30 Pro",
+    "price": 4932.62
+  },
+  {
+    "id": 819,
+    "name": "OnePlus 9R",
+    "price": 2816.32
+  },
+  {
+    "id": 820,
+    "name": "Apple iPhone 16 Pro",
+    "price": 3972.07
+  },
+  {
+    "id": 821,
+    "name": "Huawei Mate",
+    "price": 1160.16
+  },
+  {
+    "id": 822,
+    "name": "OnePlus Nord",
+    "price": 1739.16
+  },
+  {
+    "id": 823,
+    "name": "Apple iPhone 11 Pro",
+    "price": 1581.38
+  },
+  {
+    "id": 824,
+    "name": "OnePlus 9",
+    "price": 3399.2
+  },
+  {
+    "id": 825,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 672.72
+  },
+  {
+    "id": 826,
+    "name": "OnePlus 9R",
+    "price": 1976.37
+  },
+  {
+    "id": 827,
+    "name": "OnePlus 9R",
+    "price": 1966.12
+  },
+  {
+    "id": 828,
+    "name": "Apple iPhone 13",
+    "price": 4864.62
+  },
+  {
+    "id": 829,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 4846.1
+  },
+  {
+    "id": 830,
+    "name": "OnePlus 9 RT",
+    "price": 2106.5
+  },
+  {
+    "id": 831,
+    "name": "Samsung Galaxy S23",
+    "price": 1327.91
+  },
+  {
+    "id": 832,
+    "name": "OnePlus 9",
+    "price": 1905.73
+  },
+  {
+    "id": 833,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 4226.55
+  },
+  {
+    "id": 834,
+    "name": "Samsung GalaxyS Plus",
+    "price": 3600.06
+  },
+  {
+    "id": 835,
+    "name": "Xiaomi Poco F3",
+    "price": 3292.34
+  },
+  {
+    "id": 836,
+    "name": "Xiaomi Mi 10 Pro",
+    "price": 2745.82
+  },
+  {
+    "id": 837,
+    "name": "Huawei Mate X2",
+    "price": 4125.38
+  },
+  {
+    "id": 838,
+    "name": "Xiaomi Mi Mix 4",
+    "price": 1427.95
+  },
+  {
+    "id": 839,
+    "name": "OnePlus 6T",
+    "price": 2313.03
+  },
+  {
+    "id": 840,
+    "name": "Google Pixel 5 XL",
+    "price": 2237.88
+  },
+  {
+    "id": 841,
+    "name": "Xiaomi Mi 13 Pro",
+    "price": 1491.25
+  },
+  {
+    "id": 842,
+    "name": "Apple iPhoneSE Mini",
+    "price": 3391.2
+  },
+  {
+    "id": 843,
+    "name": "Google Pixel 5",
+    "price": 554.14
+  },
+  {
+    "id": 844,
+    "name": "Huawei Mate 40",
+    "price": 2260.58
+  },
+  {
+    "id": 845,
+    "name": "Apple iPhoneSE Pro",
+    "price": 3790.06
+  },
+  {
+    "id": 846,
+    "name": "Google Pixel 8 Pro",
+    "price": 3006.96
+  },
+  {
+    "id": 847,
+    "name": "Apple iPhone 11 Pro",
+    "price": 3953.54
+  },
+  {
+    "id": 848,
+    "name": "Huawei Mate",
+    "price": 3448.19
+  },
+  {
+    "id": 849,
+    "name": "Xiaomi Mi",
+    "price": 3140.94
+  },
+  {
+    "id": 850,
+    "name": "Google Pixel 4 XL",
+    "price": 1203.2
+  },
+  {
+    "id": 851,
+    "name": "Apple iPhoneSE Mini",
+    "price": 2749.19
+  },
+  {
+    "id": 852,
+    "name": "OnePlus 7 Pro",
+    "price": 3086.67
+  },
+  {
+    "id": 853,
+    "name": "Google Pixel 5 XL",
+    "price": 4380.78
+  },
+  {
+    "id": 854,
+    "name": "Xiaomi Redmi Note 11",
+    "price": 2016.3
+  },
+  {
+    "id": 855,
+    "name": "Google Pixel 4a",
+    "price": 1398.26
+  },
+  {
+    "id": 856,
+    "name": "Google Pixel 4",
+    "price": 294.05
+  },
+  {
+    "id": 857,
+    "name": "Huawei P60 Pro",
+    "price": 22.28
+  },
+  {
+    "id": 858,
+    "name": "Xiaomi Mi Pro",
+    "price": 2199.09
+  },
+  {
+    "id": 859,
+    "name": "OnePlus 6T",
+    "price": 1792.04
+  },
+  {
+    "id": 860,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 3741.47
+  },
+  {
+    "id": 861,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 626.72
+  },
+  {
+    "id": 862,
+    "name": "Huawei Mate 40",
+    "price": 4916.45
+  },
+  {
+    "id": 863,
+    "name": "Google Pixel 7",
+    "price": 1864.85
+  },
+  {
+    "id": 864,
+    "name": "Google Pixel 4a",
+    "price": 2025.61
+  },
+  {
+    "id": 865,
+    "name": "Google Pixel 5",
+    "price": 627.77
+  },
+  {
+    "id": 866,
+    "name": "OnePlus 9R",
+    "price": 3585.53
+  },
+  {
+    "id": 867,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1592.49
+  },
+  {
+    "id": 868,
+    "name": "Xiaomi Redmi K40",
+    "price": 3030.37
+  },
+  {
+    "id": 869,
+    "name": "Huawei Mate 40",
+    "price": 3570.92
+  },
+  {
+    "id": 870,
+    "name": "Apple iPhone 14 Pro",
+    "price": 1549.13
+  },
+  {
+    "id": 871,
+    "name": "Samsung Galaxy Z Flip 3",
+    "price": 791.1
+  },
+  {
+    "id": 872,
+    "name": "Apple iPhone 16",
+    "price": 1301.55
+  },
+  {
+    "id": 873,
+    "name": "Samsung Galaxy S21",
+    "price": 3592.98
+  },
+  {
+    "id": 874,
+    "name": "Google Pixel 7 Pro",
+    "price": 2539.14
+  },
+  {
+    "id": 875,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 548.12
+  },
+  {
+    "id": 876,
+    "name": "Xiaomi Mi 12 Pro",
+    "price": 264.04
+  },
+  {
+    "id": 877,
+    "name": "OnePlus 12 Pro",
+    "price": 3882.42
+  },
+  {
+    "id": 878,
+    "name": "Huawei Mate",
+    "price": 981.52
+  },
+  {
+    "id": 879,
+    "name": "Google Pixel 7",
+    "price": 4866.07
+  },
+  {
+    "id": 880,
+    "name": "Huawei P80 Pro",
+    "price": 3867.02
+  },
+  {
+    "id": 881,
+    "name": "Google Pixel 7 Pro",
+    "price": 3256.11
+  },
+  {
+    "id": 882,
+    "name": "Apple iPhone 12",
+    "price": 1761.75
+  },
+  {
+    "id": 883,
+    "name": "Google Pixel 5 XL",
+    "price": 556.1
+  },
+  {
+    "id": 884,
+    "name": "Xiaomi Mi 10",
+    "price": 1160.81
+  },
+  {
+    "id": 885,
+    "name": "OnePlus 12T",
+    "price": 3274.57
+  },
+  {
+    "id": 886,
+    "name": "Samsung Galaxy Z Flip 6",
+    "price": 98.26
+  },
+  {
+    "id": 887,
+    "name": "Samsung Galaxy Note 20",
+    "price": 1856.07
+  },
+  {
+    "id": 888,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 524.35
+  },
+  {
+    "id": 889,
+    "name": "Apple iPhone 16",
+    "price": 4056.6
+  },
+  {
+    "id": 890,
+    "name": "Apple iPhone 13 Mini",
+    "price": 4448.1
+  },
+  {
+    "id": 891,
+    "name": "OnePlus 8T",
+    "price": 228.63
+  },
+  {
+    "id": 892,
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 144.23
+  },
+  {
+    "id": 893,
+    "name": "Xiaomi Mi 13 Pro",
+    "price": 3225.72
+  },
+  {
+    "id": 894,
+    "name": "Google Pixel",
+    "price": 1652.18
+  },
+  {
+    "id": 895,
+    "name": "Apple iPhone 17",
+    "price": 1368.75
+  },
+  {
+    "id": 896,
+    "name": "Apple iPhone SE 2022",
+    "price": 3687.72
+  },
+  {
+    "id": 897,
+    "name": "Huawei Mate 30 Pro",
+    "price": 304.69
+  },
+  {
+    "id": 898,
+    "name": "Google Pixel 9 Pro",
+    "price": 598.78
+  },
+  {
+    "id": 899,
+    "name": "Huawei Mate 30 Pro",
+    "price": 2345.09
+  },
+  {
+    "id": 900,
+    "name": "Google Pixel 7",
+    "price": 1242.55
+  },
+  {
+    "id": 901,
+    "name": "OnePlus 9 RT",
+    "price": 513.53
+  },
+  {
+    "id": 902,
+    "name": "Google Pixel 4 XL",
+    "price": 1190.57
+  },
+  {
+    "id": 903,
+    "name": "Huawei Mate X",
+    "price": 4613.23
+  },
+  {
+    "id": 904,
+    "name": "Apple iPhone 15",
+    "price": 4206.57
+  },
+  {
+    "id": 905,
+    "name": "Apple iPhoneSE Mini",
+    "price": 1523.42
+  },
+  {
+    "id": 906,
+    "name": "Huawei Mate X2",
+    "price": 1380.99
+  },
+  {
+    "id": 907,
+    "name": "Huawei Mate 30 Pro",
+    "price": 1748.25
+  },
+  {
+    "id": 908,
+    "name": "Samsung GalaxyZ Fold",
+    "price": 4644.58
+  },
+  {
+    "id": 909,
+    "name": "Google Pixel 5 XL",
+    "price": 1848.88
+  },
+  {
+    "id": 910,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 1513.54
+  },
+  {
+    "id": 911,
+    "name": "Apple iPhoneSE Mini",
+    "price": 2492.85
+  },
+  {
+    "id": 912,
+    "name": "OnePlus 9T",
+    "price": 237.44
+  },
+  {
+    "id": 913,
+    "name": "Apple iPhone 13 Mini",
+    "price": 1696.92
+  },
+  {
+    "id": 914,
+    "name": "Google Pixel 6",
+    "price": 1803.21
+  },
+  {
+    "id": 915,
+    "name": "Google Pixel 8 Pro",
+    "price": 1653.94
+  },
+  {
+    "id": 916,
+    "name": "Samsung Galaxy Z Flip",
+    "price": 2424.36
+  },
+  {
+    "id": 917,
+    "name": "Apple iPhone 14",
+    "price": 3203.18
+  },
+  {
+    "id": 918,
+    "name": "Samsung GalaxyS FE",
+    "price": 1200.86
+  },
+  {
+    "id": 919,
+    "name": "OnePlus 12 Pro",
+    "price": 3076.93
+  },
+  {
+    "id": 920,
+    "name": "Google Pixel 6",
+    "price": 96.71
+  },
+  {
+    "id": 921,
+    "name": "OnePlus 10 Pro",
+    "price": 4125.82
+  },
+  {
+    "id": 922,
+    "name": "OnePlus Nord N200",
+    "price": 1018.7
+  },
+  {
+    "id": 923,
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 802.04
+  },
+  {
+    "id": 924,
+    "name": "Samsung Galaxy S21",
+    "price": 2952.37
+  },
+  {
+    "id": 925,
+    "name": "Xiaomi Mi 12 Pro",
+    "price": 643.52
+  },
+  {
+    "id": 926,
+    "name": "Huawei Mate Pro",
+    "price": 1991.52
+  },
+  {
+    "id": 927,
+    "name": "Samsung Galaxy S23",
+    "price": 1664.48
+  },
+  {
+    "id": 928,
+    "name": "Google Pixel 6 XL",
+    "price": 4014.94
+  },
+  {
+    "id": 929,
+    "name": "Apple iPhoneSE Max",
+    "price": 2812.91
+  },
+  {
+    "id": 930,
+    "name": "OnePlus 8 Pro",
+    "price": 3445.36
+  },
+  {
+    "id": 931,
+    "name": "Samsung Galaxy S21",
+    "price": 3360.61
+  },
+  {
+    "id": 932,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 432.69
+  },
+  {
+    "id": 933,
+    "name": "OnePlus Nord N200",
+    "price": 966.38
+  },
+  {
+    "id": 934,
+    "name": "Huawei Mate X2",
+    "price": 4531.73
+  },
+  {
+    "id": 935,
+    "name": "Apple iPhone 12 Pro Max",
+    "price": 4557.75
+  },
+  {
+    "id": 936,
+    "name": "Google Pixel 6",
+    "price": 1332.77
+  },
+  {
+    "id": 937,
+    "name": "Xiaomi Mi Max",
+    "price": 878.22
+  },
+  {
+    "id": 938,
+    "name": "Apple iPhone 13 Mini",
+    "price": 3446.86
+  },
+  {
+    "id": 939,
+    "name": "Huawei P40 Pro",
+    "price": 388.31
+  },
+  {
+    "id": 940,
+    "name": "Samsung GalaxyS FE",
+    "price": 3077.84
+  },
+  {
+    "id": 941,
+    "name": "Xiaomi Mi Mix Alpha",
+    "price": 3335.71
+  },
+  {
+    "id": 942,
+    "name": "Google Pixel 8a",
+    "price": 4158.56
+  },
+  {
+    "id": 943,
+    "name": "Huawei P50 Pro",
+    "price": 4801.55
+  },
+  {
+    "id": 944,
+    "name": "Samsung Galaxy S24",
+    "price": 1898.59
+  },
+  {
+    "id": 945,
+    "name": "Google Pixel 6a",
+    "price": 580.16
+  },
+  {
+    "id": 946,
+    "name": "OnePlus 8T",
+    "price": 4369.53
+  },
+  {
+    "id": 947,
+    "name": "Google Pixel 8a",
+    "price": 1003.69
+  },
+  {
+    "id": 948,
+    "name": "Google Pixel 9 Pro",
+    "price": 2458.49
+  },
+  {
+    "id": 949,
+    "name": "Apple iPhone 16 Pro",
+    "price": 4599.83
+  },
+  {
+    "id": 950,
+    "name": "Apple iPhone SE 2022",
+    "price": 761.15
+  },
+  {
+    "id": 951,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 3411.14
+  },
+  {
+    "id": 952,
+    "name": "Xiaomi Mi 11",
+    "price": 3805.82
+  },
+  {
+    "id": 953,
+    "name": "OnePlus 8T",
+    "price": 2715.8
+  },
+  {
+    "id": 954,
+    "name": "Huawei P50 Pro Lite",
+    "price": 1193.66
+  },
+  {
+    "id": 955,
+    "name": "Huawei P80 Pro",
+    "price": 732.67
+  },
+  {
+    "id": 956,
+    "name": "OnePlus Nord",
+    "price": 2543.75
+  },
+  {
+    "id": 957,
+    "name": "Samsung Galaxy A52",
+    "price": 4288.33
+  },
+  {
+    "id": 958,
+    "name": "OnePlus 7 Pro",
+    "price": 3723.73
+  },
+  {
+    "id": 959,
+    "name": "Apple iPhone SE 2022",
+    "price": 4847.25
+  },
+  {
+    "id": 960,
+    "name": "Samsung Galaxy Z Flip 3",
+    "price": 4313.89
+  },
+  {
+    "id": 961,
+    "name": "Huawei Mate X",
+    "price": 4241.36
+  },
+  {
+    "id": 962,
+    "name": "Apple iPhone SE 2022",
+    "price": 893.8
+  },
+  {
+    "id": 963,
+    "name": "Huawei P80 Pro",
+    "price": 4200.02
+  },
+  {
+    "id": 964,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 3132.18
+  },
+  {
+    "id": 965,
+    "name": "Huawei P80 Pro",
+    "price": 4372.35
+  },
+  {
+    "id": 966,
+    "name": "Huawei P50 Pro",
+    "price": 473.8
+  },
+  {
+    "id": 967,
+    "name": "Google Pixel 8",
+    "price": 1570.86
+  },
+  {
+    "id": 968,
+    "name": "Apple iPhoneSE Max",
+    "price": 2408.86
+  },
+  {
+    "id": 969,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 4571.13
+  },
+  {
+    "id": 970,
+    "name": "Google Pixel 7a",
+    "price": 3718.9
+  },
+  {
+    "id": 971,
+    "name": "OnePlus 8T",
+    "price": 4082.17
+  },
+  {
+    "id": 972,
+    "name": "Apple iPhone 12",
+    "price": 2791.29
+  },
+  {
+    "id": 973,
+    "name": "Xiaomi Poco F3",
+    "price": 4119.69
+  },
+  {
+    "id": 974,
+    "name": "Google Pixel 8 Pro",
+    "price": 2172.21
+  },
+  {
+    "id": 975,
+    "name": "Huawei Mate",
+    "price": 3601.35
+  },
+  {
+    "id": 976,
+    "name": "Samsung Galaxy A52",
+    "price": 2492
+  },
+  {
+    "id": 977,
+    "name": "Xiaomi Mi",
+    "price": 2389.81
+  },
+  {
+    "id": 978,
+    "name": "Xiaomi Mi Max",
+    "price": 415.95
+  },
+  {
+    "id": 979,
+    "name": "Apple iPhoneSE Pro",
+    "price": 1943.73
+  },
+  {
+    "id": 980,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 4586.96
+  },
+  {
+    "id": 981,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 3738.74
+  },
+  {
+    "id": 982,
+    "name": "OnePlus 12T",
+    "price": 3565.55
+  },
+  {
+    "id": 983,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 3646.36
+  },
+  {
+    "id": 984,
+    "name": "Xiaomi Mi 11",
+    "price": 3389.71
+  },
+  {
+    "id": 985,
+    "name": "Google Pixel 4a",
+    "price": 2099.86
+  },
+  {
+    "id": 986,
+    "name": "OnePlus 9",
+    "price": 2337.84
+  },
+  {
+    "id": 987,
+    "name": "OnePlus Nord N10",
+    "price": 3732.84
+  },
+  {
+    "id": 988,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1505.58
+  },
+  {
+    "id": 989,
+    "name": "Xiaomi Redmi Note 10",
+    "price": 2138.37
+  },
+  {
+    "id": 990,
+    "name": "Google Pixel 8",
+    "price": 2999.69
+  },
+  {
+    "id": 991,
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1412.12
+  },
+  {
+    "id": 992,
+    "name": "Google Pixel 9 Pro",
+    "price": 895.22
+  },
+  {
+    "id": 993,
+    "name": "Samsung Galaxy Z Fold 2",
+    "price": 2784.7
+  },
+  {
+    "id": 994,
+    "name": "Huawei P50 Pro Lite",
+    "price": 1815.86
+  },
+  {
+    "id": 995,
+    "name": "OnePlus 8 Pro",
+    "price": 4091.31
+  },
+  {
+    "id": 996,
+    "name": "Samsung Galaxy S24",
+    "price": 1946.98
+  },
+  {
+    "id": 997,
+    "name": "Apple iPhoneSE Pro",
+    "price": 4742.61
+  },
+  {
+    "id": 998,
+    "name": "Apple iPhone 15",
+    "price": 118.53
+  },
+  {
+    "id": 999,
+    "name": "Huawei P50 Pro",
+    "price": 1524.46
+  },
+  {
+    "id": 1000,
+    "name": "OnePlus 9 RT",
+    "price": 4243.06
+  }
+]

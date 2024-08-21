@@ -1,0 +1,5 @@
+@SimpleLocalCacher_HostAddress = http://localhost:5090
+
+GET {{SimpleLocalCacher_HostAddress}}/api/Test/GetFullTable/
+Accept: application/json
+###
